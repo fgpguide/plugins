@@ -23,6 +23,14 @@
 </head>
 
 <body>
+    <section id="header">
+        <div class="row">
+            <select id="selectConfig" class="tool">
+                <option value="slider-default-config.json">Landcover 2005 - 2000</option>
+                <option value="slider-esrinumber-config.json">Landcover 2015 - 2010</option>
+            </select>
+        </div>
+    </section>
     <div class="myMap" id="mapSwiper" is="rv-map" rv-config="swiper-config.json" rv-langs='["en-CA", "fr-CA"]'
         rv-plugins="swiper">
         <noscript>
