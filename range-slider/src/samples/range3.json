@@ -801,7 +801,7 @@
                 "delay"
             ],
             "params": {
-                "type": "wmst",
+                "type": "wms-t",
                 "delay": "3000",
                 "range": {
                     "min": 1599062400000,
