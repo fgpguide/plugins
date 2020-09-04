@@ -1041,54 +1041,6 @@
                 "name": "2019",
                 "id": "2019***16ba4096",
                 "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/4"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Teleost_Fond_pH_2017/MapServer/0",
-                "name": "ph2017",
-                "id": "ph2017***3795e538"
             }
         ],
         "legend": {
@@ -1315,62 +1267,62 @@
                 {
                     "duration": 3000,
                     "id": "2010***334d1710",
-                    "title": "Dissolved Oxygen",
-                    "description": "201000"
+                    "title": "Dissolved Oxygen Interpolated 2010",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2011***b7e36081",
-                    "title": "Dissolved Oxygen",
-                    "description": "2011"
+                    "title": "Dissolved Oxygen Interpolated 2011",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2012***42799318",
-                    "title": "Dissolved Oxygen",
-                    "description": "2012"
+                    "title": "Dissolved Oxygen Interpolated 2012",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2013***dba939d1",
-                    "title": "Dissolved Oxygen",
-                    "description": "2013"
+                    "title": "Dissolved Oxygen Interpolated 2013",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2014***e583413b",
-                    "title": "Dissolved Oxygen",
-                    "description": "2014"
+                    "title": "Dissolved Oxygen Interpolated 2014",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2015***01489920",
-                    "title": "Dissolved Oxygen",
-                    "description": "2015"
+                    "title": "Dissolved Oxygen Interpolated 2015",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2016***1f515f44",
-                    "title": "Dissolved Oxygen",
-                    "description": "2016"
+                    "title": "Dissolved Oxygen Interpolated 2016",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2017***14fd0669",
-                    "title": "Dissolved Oxygen",
-                    "description": "2017"
+                    "title": "Dissolved Oxygen Interpolated 2017",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2018***82042dec",
-                    "title": "Dissolved Oxygen",
-                    "description": "2018"
+                    "title": "Dissolved Oxygen Interpolated 2018",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 },
                 {
                     "duration": 3000,
                     "id": "2019***16ba4096",
-                    "title": "Dissolved Oxygen",
-                    "description": "2019"
+                    "title": "Dissolved Oxygen Interpolated 2019",
+                    "description": "Deep water (> 200 m) dissolved oxygen interpolated on a grid cell of 10 km x10 km in the Estuary and Gulf of St. Lawrence. Input data are from the annual August multidisciplinary survey hold in 2010 to 2019."
                 }
             ]
         }
