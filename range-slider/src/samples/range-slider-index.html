@@ -17,30 +17,23 @@
         }
     </style>
 
-    <link rel="stylesheet" href="../../fgpv/rv-styles.css" />
-    <link rel="stylesheet" href="../range-slider.css" />
-    <script src="../range-slider.js"></script>
+    <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/fgpv/rv-styles.css" />
+    <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.css" />
+    <script src="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.js"></script>
 </head>
 
 <body>
     <section id="header">
         <div class="row">
             <select id="selectConfig" class="tool">
-                <option value="slider-default-config.json">01. EsriFeature layer default limit and range</option>
-                <option value="slider-esrinumber-config.json">02. EsriDynamic layer with number field</option>
-                <option value="slider-esridate-config.json">03. EsriFeature layer with date field</option>
-                <option value="slider-wmsnumber-config.json">04. WMS layer with number field</option>
-                <option value="slider-wmsdate-config.json">05. WMS layer with date field</option>
-                <option value="slider-esrinumber-multilayer-config.json">06. EsriFeature multi layers with number field
-                    (closed by default)</option>
-                <option value="slider-realwmst-config.json">07. WMS-T layer with date</option>
-                <option value="slider-no-config.json">08. No config, use ESRI time aware layer</option>
-                <option value="slider-realwmsnumber-config.json">09. Real WMS - Not Working -</option>
+                <option value="range1.json">01. Humpback whale observations</option>
+                <option value="range2.json">02. Ocean Data Inventory</option>
+                <option value="range3.json">02. WMS-T</option>
             </select>
         </div>
     </section>
-    <div class="myMap" id="mapSlider" is="rv-map" rv-config="slider-esrinumber-config.json"
-        rv-langs='["en-CA", "fr-CA"]' rv-plugins="rangeSlider">
+    <div class="myMap" id="mapSlider" is="rv-map" rv-config="range1.json" rv-langs='["en-CA", "fr-CA"]'
+        rv-plugins="rangeSlider">
         <noscript>
             <p>
                 This interactive map requires JavaScript. To view this content please enable JavaScript in your
@@ -105,7 +98,7 @@
     <script
         src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
     </script>
-    <script src="../../fgpv/rv-main.js"></script>
+    <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main.js"></script>
 </body>
 
 </html>

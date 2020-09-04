@@ -606,9 +606,9 @@
                     "printEnabled": false,
                     "columns": []
                 },
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/13",
-                "name": "2010",
-                "id": "2010***334d1710"
+                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/OceanDataInventory_Current_Salinity_Temperature_EN/MapServer/2",
+                "name": "Ocean Data Inventory Temperature",
+                "id": "Ocean Data Inventory Temperature***3f030a6b"
             },
             {
                 "layerChoice": "esriFeature",
@@ -643,452 +643,12 @@
                     "snapshot": false,
                     "hovertips": true
                 },
+                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/OceanDataInventory_Current_Salinity_Temperature_EN/MapServer/1",
+                "name": "Ocean Data Inventory Salinity",
+                "id": "Ocean Data Inventory Salinity***f565d47f",
                 "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
                     "columns": []
-                },
-                "name": "2011",
-                "id": "2011***b7e36081",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/12"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2012",
-                "id": "2012***42799318",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/11"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/10",
-                "name": "2013",
-                "id": "2013***dba939d1"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2014",
-                "id": "2014***e583413b",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/9"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2015",
-                "id": "2015***01489920",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/8"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2016",
-                "id": "2016***1f515f44",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/7"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2017",
-                "id": "2017***14fd0669",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/6"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2018",
-                "id": "2018***82042dec",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/5"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "name": "2019",
-                "id": "2019***16ba4096",
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Deep_water_dissolved_oxygen_Teleost/MapServer/4"
-            },
-            {
-                "layerChoice": "esriFeature",
-                "layerType": "esriFeature",
-                "toggleSymbology": true,
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "tolerance": 5,
-                "outfields": "*",
-                "controls": [
-                    "opacity",
-                    "visibility",
-                    "boundingBox",
-                    "query",
-                    "snapshot",
-                    "metadata",
-                    "boundaryZoom",
-                    "refresh",
-                    "reload",
-                    "remove",
-                    "settings",
-                    "data",
-                    "styles"
-                ],
-                "disabledControls": [],
-                "enableStructuredDelete": false,
-                "state": {
-                    "opacity": 1,
-                    "visibility": true,
-                    "boundingBox": false,
-                    "query": true,
-                    "snapshot": false,
-                    "hovertips": true
-                },
-                "table": {
-                    "title": "",
-                    "maximize": false,
-                    "lazyFilter": false,
-                    "applyMap": false,
-                    "showFilter": true,
-                    "filterByExtent": false,
-                    "searchStrictMatch": false,
-                    "printEnabled": false,
-                    "columns": []
-                },
-                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/Teleost_Fond_pH_2017/MapServer/0",
-                "name": "ph2017",
-                "id": "ph2017***3795e538"
+                }
             }
         ],
         "legend": {
@@ -1238,16 +798,26 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": false,
+            "enable": true,
             "open": true,
             "controls": [
                 "lock",
                 "delay"
             ],
             "params": {
-                "type": "number",
+                "type": "date",
                 "delay": "3000"
-            }
+            },
+            "layers": [
+                {
+                    "id": "Ocean Data Inventory Temperature***3f030a6b",
+                    "field": "COLLECTION_START_DATE"
+                },
+                {
+                    "id": "Ocean Data Inventory Salinity***f565d47f",
+                    "field": "COLLECTION_START_DATE"
+                }
+            ]
         },
         "coordInfo": {
             "enable": false
@@ -1304,75 +874,13 @@
             ]
         },
         "thematicSlider": {
-            "enable": true,
+            "enable": false,
             "open": true,
             "autorun": false,
             "loop": false,
             "description": true,
             "slider": true,
-            "stack": false,
-            "layers": [
-                {
-                    "duration": 3000,
-                    "id": "2010***334d1710",
-                    "title": "Dissolved Oxygen",
-                    "description": "2010"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2011***b7e36081",
-                    "title": "Dissolved Oxygen",
-                    "description": "2011"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2012***42799318",
-                    "title": "Dissolved Oxygen",
-                    "description": "2012"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2013***dba939d1",
-                    "title": "Dissolved Oxygen",
-                    "description": "2013"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2014***e583413b",
-                    "title": "Dissolved Oxygen",
-                    "description": "2014"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2015***01489920",
-                    "title": "Dissolved Oxygen",
-                    "description": "2015"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2016***1f515f44",
-                    "title": "Dissolved Oxygen",
-                    "description": "2016"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2017***14fd0669",
-                    "title": "Dissolved Oxygen",
-                    "description": "2017"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2018***82042dec",
-                    "title": "Dissolved Oxygen",
-                    "description": "2018"
-                },
-                {
-                    "duration": 3000,
-                    "id": "2019***16ba4096",
-                    "title": "Dissolved Oxygen",
-                    "description": "2019"
-                }
-            ]
+            "stack": false
         }
     }
 }
