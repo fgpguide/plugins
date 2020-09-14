@@ -563,11 +563,10 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
-                "refreshInterval": 0,
-                "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
+                "layerChoice": "file",
+                "layerType": "esriFeature",
+                "fileType": "geojson",
+                "colour": "#ff0000",
                 "tolerance": 5,
                 "outfields": "*",
                 "controls": [
@@ -595,56 +594,20 @@
                     "snapshot": false,
                     "hovertips": true
                 },
-                "layerEntries": [
-                    {
-                        "outfields": "*",
-                        "stateOnly": false,
-                        "table": {
-                            "title": "",
-                            "maximize": false,
-                            "lazyFilter": false,
-                            "applyMap": false,
-                            "showFilter": true,
-                            "filterByExtent": false,
-                            "searchStrictMatch": false,
-                            "printEnabled": false,
-                            "columns": []
-                        },
-                        "controls": [
-                            "opacity",
-                            "visibility",
-                            "boundingBox",
-                            "query",
-                            "snapshot",
-                            "metadata",
-                            "boundaryZoom",
-                            "refresh",
-                            "reload",
-                            "remove",
-                            "settings",
-                            "data",
-                            "styles"
-                        ],
-                        "disabledControls": [],
-                        "state": {
-                            "opacity": 1,
-                            "visibility": true,
-                            "boundingBox": false,
-                            "query": true,
-                            "snapshot": false,
-                            "hovertips": true
-                        },
-                        "allStyles": [
-                            ""
-                        ],
-                        "init": true,
-                        "id": "REPS.MEM.PRES_GZ.700.09",
-                        "name": ""
-                    }
-                ],
-                "name": "REPS.MEM.PRES_GZ.700.09",
-                "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                "url": "https://geo.weather.gc.ca/geomet"
+                "table": {
+                    "title": "",
+                    "maximize": false,
+                    "lazyFilter": false,
+                    "applyMap": false,
+                    "showFilter": true,
+                    "filterByExtent": false,
+                    "searchStrictMatch": false,
+                    "printEnabled": false,
+                    "columns": []
+                },
+                "url": "./geoJSON/piechart_test.json",
+                "name": "Graphics",
+                "id": "Graphics***5e7ec212"
             }
         ],
         "legend": {
@@ -794,30 +757,16 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": true,
+            "enable": false,
             "open": true,
             "controls": [
                 "lock",
                 "delay"
             ],
             "params": {
-                "type": "wmst",
-                "delay": "3000",
-                "range": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                },
-                "limit": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                }
-            },
-            "layers": [
-                {
-                    "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                    "field": "TIME"
-                }
-            ]
+                "type": "number",
+                "delay": "3000"
+            }
         },
         "coordInfo": {
             "enable": false
@@ -826,32 +775,42 @@
             "enable": false
         },
         "chart": {
-            "enable": false,
+            "enable": true,
             "type": "pie",
-            "title": "",
+            "title": "Percentage of population with knowledge of English and French",
             "labelsPie": {
-                "type": "config",
-                "values": "",
+                "type": "field",
+                "values": "label",
                 "split": ";"
             },
             "options": {
                 "colors": "",
                 "cutOut": 0
             },
-            "axis": {
-                "xAxis": {
-                    "title": "",
-                    "type": "config",
-                    "values": "",
-                    "split": ";"
-                },
-                "yAxis": {
-                    "title": "",
-                    "type": "config",
-                    "values": "",
-                    "split": ";"
+            "layers": [
+                {
+                    "id": "Graphics***5e7ec212",
+                    "data": [
+                        {
+                            "type": "single",
+                            "label": {
+                                "type": "config",
+                                "values": "",
+                                "split": ";"
+                            },
+                            "split": ";",
+                            "prefix": "",
+                            "suffix": "",
+                            "measure": "data1",
+                            "regex": " "
+                        }
+                    ],
+                    "details": {
+                        "enabled": false,
+                        "value": "## What a nice pie chart\n**Useful data listed below**\n * Label field value: {{label}}\n * Data: {{data1}}{{data2}}\n\n\n![sd-logo](https://raw.githubusercontent.com/showdownjs/logo/master/dist/logo.readme.png 'sd logo')\n\n[Get Showdown!](https://github.com/showdownjs/showdown)"
+                    }
                 }
-            }
+            ]
         },
         "swiper": {
             "enable": false,

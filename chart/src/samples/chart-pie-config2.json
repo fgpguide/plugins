@@ -94,7 +94,7 @@
         "name": "Graphics",
         "layerType": "esriFeature",
         "fileType": "geojson",
-        "url": "https://raw.githubusercontent.com/fgpv-vpgf/contributed-plugins/master/chart/src/samples/geoJSON/pieChart.json"
+        "url": "./geoJSON/pietest.json"
       },
       {
         "id": "1",
@@ -288,14 +288,14 @@
           "data": [
             {
               "type": "single",
-              "measure": "data",
+              "measure": "TOT_KNW_L_EN",
               "label": {
                 "type": "config",
                 "values": "",
-                "split": ";"
+                "split": ""
               },
               "regex": "",
-              "split": ";",
+              "split": "",
               "prefix": "Custom",
               "suffix": "Color"
             }

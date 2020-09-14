@@ -563,11 +563,10 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
                 "controls": [
@@ -595,6 +594,9 @@
                     "snapshot": false,
                     "hovertips": true
                 },
+                "name": "2015 Land Cover of Canada",
+                "id": "2015 Land Cover of Canada***6ec34729",
+                "url": "https://geoappext.nrcan.gc.ca/arcgis/rest/services/FGP/canada_landcover_2015_en/MapServer",
                 "layerEntries": [
                     {
                         "outfields": "*",
@@ -608,7 +610,16 @@
                             "filterByExtent": false,
                             "searchStrictMatch": false,
                             "printEnabled": false,
-                            "columns": []
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
                         },
                         "controls": [
                             "opacity",
@@ -634,17 +645,98 @@
                             "snapshot": false,
                             "hovertips": true
                         },
-                        "allStyles": [
-                            ""
-                        ],
                         "init": true,
-                        "id": "REPS.MEM.PRES_GZ.700.09",
-                        "name": ""
+                        "index": 0
                     }
+                ]
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
                 ],
-                "name": "REPS.MEM.PRES_GZ.700.09",
-                "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                "url": "https://geo.weather.gc.ca/geomet"
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "url": "https://geoappext.nrcan.gc.ca/arcgis/rest/services/FGP/LandCover_EN/MapServer",
+                "name": "2010 Land Cover of Canada",
+                "id": "2010 Land Cover of Canada***0e9da6a2",
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 0
+                    }
+                ]
             }
         ],
         "legend": {
@@ -794,30 +886,16 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": true,
+            "enable": false,
             "open": true,
             "controls": [
                 "lock",
                 "delay"
             ],
             "params": {
-                "type": "wmst",
-                "delay": "3000",
-                "range": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                },
-                "limit": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                }
-            },
-            "layers": [
-                {
-                    "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                    "field": "TIME"
-                }
-            ]
+                "type": "number",
+                "delay": "3000"
+            }
         },
         "coordInfo": {
             "enable": false
@@ -854,9 +932,14 @@
             }
         },
         "swiper": {
-            "enable": false,
+            "enable": true,
             "type": "vertical",
-            "keyboardOffset": 10
+            "keyboardOffset": 10,
+            "layers": [
+                {
+                    "id": "2015 Land Cover of Canada***6ec34729"
+                }
+            ]
         },
         "draw": {
             "enable": false,

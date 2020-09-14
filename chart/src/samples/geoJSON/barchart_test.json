@@ -1,0 +1,4933 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.373599999999996,
+                    44.500799999999998
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "sample_cod": "BP01-F01",
+                "longitude": -81.373599999999996,
+                "latitude": 44.500799999999998,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;1.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.373599999999996,
+                    44.500799999999998
+                ]
+            },
+            "properties": {
+                "FID": 1,
+                "sample_cod": "BP01-F02",
+                "longitude": -81.373599999999996,
+                "latitude": 44.500799999999998,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[2.08;2;1.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 5,
+                "sample_cod": "BP04-F03",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water;Cobalt-60",
+                "result": "[1.2;2;5.6;0];[0.8;1.5;12.3;1];[0;0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 6,
+                "sample_cod": "BP04-F04",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;1.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 7,
+                "sample_cod": "BP04-F05",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water;Cobalt-60",
+                "result": "[1.2;2;5.8;0];[1;1.5;5.1;1];[1.5;1.5;3.3;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 8,
+                "sample_cod": "BP04-F06",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;8.9];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 9,
+                "sample_cod": "BP04-F07",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;10.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 10,
+                "sample_cod": "BP04-F08",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;6.7];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 11,
+                "sample_cod": "BP04-F09",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;4];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.464700000000001
+                ]
+            },
+            "properties": {
+                "FID": 12,
+                "sample_cod": "BP04-F21",
+                "longitude": -81.3673,
+                "latitude": 44.464700000000001,
+                "year": "2013;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[3.3;1.5;1.8;2.1];[1.5;1.5;6.4;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3673,
+                    44.4649
+                ]
+            },
+            "properties": {
+                "FID": 13,
+                "sample_cod": "BP04-F30",
+                "longitude": -81.3673,
+                "latitude": 44.4649,
+                "year": "2013;2015;2016",
+                "parameter": "Organically Bound Tritium;Cesium-137;Tritiated Water;Cobalt-60",
+                "result": "[0;0;0;0];[0;0;0;0];[1.5;1.5;7.1;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.592299999999994,
+                    44.295900000000003
+                ]
+            },
+            "properties": {
+                "FID": 38,
+                "sample_cod": "BP17-F11",
+                "longitude": -81.592299999999994,
+                "latitude": 44.295900000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;1.8;21.8];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.542699999999996,
+                    44.245600000000003
+                ]
+            },
+            "properties": {
+                "FID": 43,
+                "sample_cod": "BP20-F12",
+                "longitude": -81.542699999999996,
+                "latitude": 44.245600000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;5.2];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.542699999999996,
+                    44.245600000000003
+                ]
+            },
+            "properties": {
+                "FID": 44,
+                "sample_cod": "BP20-F13",
+                "longitude": -81.542699999999996,
+                "latitude": 44.245600000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;7.2];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.542699999999996,
+                    44.245600000000003
+                ]
+            },
+            "properties": {
+                "FID": 45,
+                "sample_cod": "BP20-F14",
+                "longitude": -81.542699999999996,
+                "latitude": 44.245600000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;9.3];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.542699999999996,
+                    44.245600000000003
+                ]
+            },
+            "properties": {
+                "FID": 46,
+                "sample_cod": "BP20-F15",
+                "longitude": -81.542699999999996,
+                "latitude": 44.245600000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;4.3];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.593599999999995,
+                    44.202100000000002
+                ]
+            },
+            "properties": {
+                "FID": 47,
+                "sample_cod": "BP21-F16",
+                "longitude": -81.593599999999995,
+                "latitude": 44.202100000000002,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;1.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.593599999999995,
+                    44.202100000000002
+                ]
+            },
+            "properties": {
+                "FID": 48,
+                "sample_cod": "BP21-F17",
+                "longitude": -81.593599999999995,
+                "latitude": 44.202100000000002,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water",
+                "result": "[1.2;2;1.5];[0;0;0];[0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.595100000000002,
+                    44.248800000000003
+                ]
+            },
+            "properties": {
+                "FID": 51,
+                "sample_cod": "BP25-F22",
+                "longitude": -81.595100000000002,
+                "latitude": 44.248800000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water;Cobalt-60",
+                "result": "[0;0;0;0];[0.8;1.5;20.8;1];[1.5;1.5;6.9;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.595100000000002,
+                    44.248800000000003
+                ]
+            },
+            "properties": {
+                "FID": 52,
+                "sample_cod": "BP25-F23",
+                "longitude": -81.595100000000002,
+                "latitude": 44.248800000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water;Cobalt-60",
+                "result": "[0;0;0;0];[1;1.5;10.2;1];[0;0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.595100000000002,
+                    44.248800000000003
+                ]
+            },
+            "properties": {
+                "FID": 53,
+                "sample_cod": "BP25-F24",
+                "longitude": -81.595100000000002,
+                "latitude": 44.248800000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[69.9;2;1.8;2.1];[1.5;1.5;3.4;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.595699999999994,
+                    44.248999999999995
+                ]
+            },
+            "properties": {
+                "FID": 54,
+                "sample_cod": "BP25-F31",
+                "longitude": -81.595699999999994,
+                "latitude": 44.249000000000002,
+                "year": "2013;2015;2016",
+                "parameter": "Organically Bound Tritium;Cesium-137;Tritiated Water;Cobalt-60",
+                "result": "[0;0;0;0];[0;0;0;0];[1.7;1.5;1.5;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.552199999999999,
+                    44.207500000000003
+                ]
+            },
+            "properties": {
+                "FID": 57,
+                "sample_cod": "BP26-F26",
+                "longitude": -81.552199999999999,
+                "latitude": 44.207500000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[3.9;21;0.8;1];[0;0;0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.552199999999999,
+                    44.207500000000003
+                ]
+            },
+            "properties": {
+                "FID": 58,
+                "sample_cod": "BP26-F27",
+                "longitude": -81.552199999999999,
+                "latitude": 44.207500000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[1.5;1.5;0.8;1];[1.5;1.5;3.5;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.536199999999994,
+                    44.201300000000003
+                ]
+            },
+            "properties": {
+                "FID": 59,
+                "sample_cod": "BP27-F28",
+                "longitude": -81.536199999999994,
+                "latitude": 44.201300000000003,
+                "year": "2013;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[4.8;56.5;1;1.2];[1.5;1.5;6.5;1.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.523899999999998,
+                    44.259799999999998
+                ]
+            },
+            "properties": {
+                "FID": 60,
+                "sample_cod": "BP28-F29",
+                "longitude": -81.523899999999998,
+                "latitude": 44.259799999999998,
+                "year": "2013;2015;2016",
+                "parameter": "Organically Bound Tritium;Cesium-137;Tritiated Water;Cobalt-60;Iodine-131",
+                "result": "[0;0;0;0;0];[0;0;0;0;0];[4.8;0.26;1.7;0.3;0.3]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Bruce A and B Nuclear Generating Stations",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.530199999999994,
+                    46.113199999999999
+                ]
+            },
+            "properties": {
+                "FID": 95,
+                "sample_cod": "CR01-F01",
+                "longitude": -77.530199999999994,
+                "latitude": 46.113199999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[5;8.9];[2.3;2.5];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.138099999999994,
+                    45.817500000000003
+                ]
+            },
+            "properties": {
+                "FID": 127,
+                "sample_cod": "CR13-F02",
+                "longitude": -77.138099999999994,
+                "latitude": 45.817500000000003,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium;Cesium-137;Cobalt-60",
+                "result": "[5;5.7;0;0];[1.8;3;0;0];[1.5;1.9;0.26;0.29]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.117800000000003,
+                    45.8247
+                ]
+            },
+            "properties": {
+                "FID": 132,
+                "sample_cod": "CR16-F03",
+                "longitude": -77.117800000000003,
+                "latitude": 45.8247,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[8.1;3];[0;0];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 133,
+                "sample_cod": "CR17-F03",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[2.8;2.8];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 134,
+                "sample_cod": "CR17-F04",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;3.2];[1.5;3]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 135,
+                "sample_cod": "CR17-F05",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;1.5];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 136,
+                "sample_cod": "CR17-F06",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;4.9];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 137,
+                "sample_cod": "CR17-F07",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;3.1];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 138,
+                "sample_cod": "CR17-F08",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.9;2.6];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502700000000004,
+                    46.048499999999997
+                ]
+            },
+            "properties": {
+                "FID": 139,
+                "sample_cod": "CR17-F09",
+                "longitude": -77.502700000000004,
+                "latitude": 46.048499999999997,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;2];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017,
+                    46.048000000000002
+                ]
+            },
+            "properties": {
+                "FID": 140,
+                "sample_cod": "CR17-F18",
+                "longitude": -77.5017,
+                "latitude": 46.048000000000002,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[0;0];[1.5;3.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061499999999995,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 143,
+                "sample_cod": "CR18-F10",
+                "longitude": -77.061499999999995,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;5.4];[1.5;3.2]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061499999999995,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 144,
+                "sample_cod": "CR18-F11",
+                "longitude": -77.061499999999995,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[2;2.2];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061499999999995,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 145,
+                "sample_cod": "CR18-F12",
+                "longitude": -77.061499999999995,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;3.8];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061499999999995,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 146,
+                "sample_cod": "CR18-F13",
+                "longitude": -77.061499999999995,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[1.5;5.2];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061400000000006,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 147,
+                "sample_cod": "CR18-F14",
+                "longitude": -77.061400000000006,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[0;0];[1.5;2]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017,
+                    46.048000000000002
+                ]
+            },
+            "properties": {
+                "FID": 148,
+                "sample_cod": "CR18-F15",
+                "longitude": -77.5017,
+                "latitude": 46.048000000000002,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[0;0];[1.5;1.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061400000000006,
+                    45.934699999999999
+                ]
+            },
+            "properties": {
+                "FID": 149,
+                "sample_cod": "CR18-F16",
+                "longitude": -77.061400000000006,
+                "latitude": 45.934699999999999,
+                "year": "2012;2013;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[0;0];[0;0];[1.5;1.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Chalk River Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48999999999999,
+                    58.176900000000003
+                ]
+            },
+            "properties": {
+                "FID": 158,
+                "sample_cod": "CU01-F01A",
+                "longitude": -109.48999999999999,
+                "latitude": 58.176900000000003,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;11.0;0.1;0.01;0.09;0.002;0.02;0.01;0.12;0.001;5.2]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48999999999999,
+                    58.176900000000003
+                ]
+            },
+            "properties": {
+                "FID": 159,
+                "sample_cod": "CU01-F01B",
+                "longitude": -109.48999999999999,
+                "latitude": 58.176900000000003,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;4.8;0.1;0.01;0.18;0.002;0.02;0.01;0.12;0.001;6.6]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48999999999999,
+                    58.176900000000003
+                ]
+            },
+            "properties": {
+                "FID": 160,
+                "sample_cod": "CU01-F01C",
+                "longitude": -109.48999999999999,
+                "latitude": 58.176900000000003,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.05;1;6.2;0.1;0.01;0.16;0.002;0.02;0.02;0.15;0.001;8.1]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48999999999999,
+                    58.176900000000003
+                ]
+            },
+            "properties": {
+                "FID": 161,
+                "sample_cod": "CU01-F01D",
+                "longitude": -109.48999999999999,
+                "latitude": 58.176900000000003,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;2.6;0.1;0.01;0.07;0.002;0.02;0.01;0.10;0.001;2.8]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48999999999999,
+                    58.176900000000003
+                ]
+            },
+            "properties": {
+                "FID": 162,
+                "sample_cod": "CU01-F01E",
+                "longitude": -109.48999999999999,
+                "latitude": 58.176900000000003,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.8;0.1;0.01;0.10;0.002;0.02;0.01;0.12;0.001;3.1]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48399999999999,
+                    58.181699999999999
+                ]
+            },
+            "properties": {
+                "FID": 163,
+                "sample_cod": "CU01-F02A",
+                "longitude": -109.48399999999999,
+                "latitude": 58.181699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.7;0.1;0.01;0.13;0.002;0.02;0.01;0.18;0.001;3.4]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48399999999999,
+                    58.181699999999999
+                ]
+            },
+            "properties": {
+                "FID": 164,
+                "sample_cod": "CU01-F02B",
+                "longitude": -109.48399999999999,
+                "latitude": 58.181699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;1.4;0.2;0.01;0.09;0.002;0.02;0.05;0.14;0.001;3.4]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48399999999999,
+                    58.181699999999999
+                ]
+            },
+            "properties": {
+                "FID": 165,
+                "sample_cod": "CU01-F02C",
+                "longitude": -109.48399999999999,
+                "latitude": 58.181699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;1.7;0.1;0.01;0.15;0.002;0.02;0.01;0.11;0.001;2.8]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48399999999999,
+                    58.181699999999999
+                ]
+            },
+            "properties": {
+                "FID": 166,
+                "sample_cod": "CU01-F02D",
+                "longitude": -109.48399999999999,
+                "latitude": 58.181699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;2.6;0.2;0.01;0.12;0.002;0.02;0.01;0.14;0.001;3.4]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48399999999999,
+                    58.181699999999999
+                ]
+            },
+            "properties": {
+                "FID": 167,
+                "sample_cod": "CU01-F02E",
+                "longitude": -109.48399999999999,
+                "latitude": 58.181699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.8;0.1;0.01;0.10;0.002;0.02;0.01;0.10;0.001;2.3]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 168,
+                "sample_cod": "CU01-F03A",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.13;0.38;0.23;0.09;0.009;0.41;0.011;0.019;0.039;0.009;0.0019;0.75]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 169,
+                "sample_cod": "CU01-F03B",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.14;1.41;0.74;0.10;0.010;0.64;0.006;0.02;0.042;0.010;0.0020;0.72]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 170,
+                "sample_cod": "CU01-F03C",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.14;0.20;0.20;0.10;0.010;0.57;0.008;0.02;0.061;0.010;0.0020;0.77]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 171,
+                "sample_cod": "CU01-F03D",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.21;0.17;0.66;0.09;0.009;0.44;0.026;0.017;0.019;0.009;0.0070;0.70]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 172,
+                "sample_cod": "CU01-F04A",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[4.01;10.02;4.75;0.26;0.026;0.0053;0.0053;0.053;0.153;0.026;0.0053;7.39]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 173,
+                "sample_cod": "CU01-F04B",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[3.02;4.61;4.10;0.46;0.026;0.0051;0.0051;0.051;0.108;0.026;0.0051;6.15]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 174,
+                "sample_cod": "CU01-F04C",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[2.59;12.17;6.59;0.30;0.025;0.0101;0.0101;0.051;0.380;0.025;0.0051;10.14]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 175,
+                "sample_cod": "CU01-F04D",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[4.09;1.82;0.91;0.27;0.023;0.0045;0.0045;0.045;0.077;0.023;0.0045;8.17]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 177,
+                "sample_cod": "CU02-F01A",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.7;0.1;0.03;0.09;0.002;0.02;0.01;0.13;0.001;4.6]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 178,
+                "sample_cod": "CU02-F01B",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.5;0.1;0.06;0.16;0.004;0.02;0.03;0.13;0.002;6.9]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 179,
+                "sample_cod": "CU02-F01C",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;4.7;0.1;0.02;0.08;0.002;0.02;0.03;0.10;0.001;3.4]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 180,
+                "sample_cod": "CU02-F01D",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;2.4;0.1;0.02;0.10;0.003;0.02;0.02;0.12;0.001;5.2]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 181,
+                "sample_cod": "CU02-F01E",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.8;0.1;0.02;0.17;0.002;0.02;0.02;0.09;0.001;3.6]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 182,
+                "sample_cod": "CU02-F02A",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.5;0.1;0.04;0.15;0.002;0.02;0.01;0.13;0.001;2.8]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 183,
+                "sample_cod": "CU02-F02B",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.7;0.1;0.02;0.15;0.002;0.02;0.01;0.11;0.001;3.2]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 184,
+                "sample_cod": "CU02-F02C",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.3;0.1;0.02;0.10;0.002;0.02;0.01;0.12;0.001;3.3]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 185,
+                "sample_cod": "CU02-F02D",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.2;0.1;0.04;0.08;0.002;0.02;0.01;0.15;0.001;3.0]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.48899999999999,
+                    58.175699999999999
+                ]
+            },
+            "properties": {
+                "FID": 186,
+                "sample_cod": "CU02-F02E",
+                "longitude": -109.489,
+                "latitude": 58.175699999999999,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.2;0.1;0.02;0.21;0.002;0.02;0.01;0.15;0.001;4.0]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 187,
+                "sample_cod": "CU02-F03A",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Lead-210;Polonium-210;Thorium-230;Radium-226;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.21;0.30;0.11;0.40;0.011;0.63;0.004;0.021;0.057;0.010;0.0084;1.48]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 188,
+                "sample_cod": "CU02-F03B",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Lead-210;Polonium-210;Thorium-230;Radium-226;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.19;0.18;0.10;0.18;0.010;0.58;0.008;0.019;0.136;0.010;0.0019;1.15]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 189,
+                "sample_cod": "CU02-F03C",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Lead-210;Polonium-210;Thorium-230;Radium-226;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.18;0.09;0.07;0.33;0.009;0.51;0.004;0.018;0.047;0.009;0.0035;0.79]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 190,
+                "sample_cod": "CU02-F03D",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Lead-210;Polonium-210;Thorium-230;Radium-226;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.39;0.12;0.10;0.37;0.010;0.62;0.021;0.02;0.070;0.010;0.0020;1.19]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 191,
+                "sample_cod": "CU02-F04A",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[3.49;6.87;5.29;0.26;0.026;1.74;0.0053;0.053;0.079;0.026;0.0053;9.52]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 192,
+                "sample_cod": "CU02-F04B",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[2.81;12.35;4.94;0.25;0.025;1.98;0.0049;0.049;0.163;0.025;0.0198;6.91]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 193,
+                "sample_cod": "CU02-F04C",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[6.69;4.63;3.09;0.26;0.026;2.21;0.0051;0.051;0.123;0.026;0.0051;7.20]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.779,
+                    58.320099999999996
+                ]
+            },
+            "properties": {
+                "FID": 194,
+                "sample_cod": "CU02-F04D",
+                "longitude": -109.779,
+                "latitude": 58.320099999999996,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[4.14;6.64;3.58;0.31;0.026;1.58;0.0051;0.051;0.107;0.026;0.0051;8.69]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.53100000000001,
+                    58.3611
+                ]
+            },
+            "properties": {
+                "FID": 196,
+                "sample_cod": "CU03-F01A",
+                "longitude": -109.53100000000001,
+                "latitude": 58.3611,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;4;0.1;0.02;0.11;0.002;0.02;0.01;0.37;0.001;3.6]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.53100000000001,
+                    58.3611
+                ]
+            },
+            "properties": {
+                "FID": 197,
+                "sample_cod": "CU03-F01B",
+                "longitude": -109.53100000000001,
+                "latitude": 58.3611,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.8;0.1;0.01;0.17;0.002;0.02;0.01;0.19;0.001;6.9]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.53100000000001,
+                    58.3611
+                ]
+            },
+            "properties": {
+                "FID": 198,
+                "sample_cod": "CU03-F01C",
+                "longitude": -109.53100000000001,
+                "latitude": 58.3611,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;7.0;0.1;0.02;0.12;0.002;0.02;0.01;0.28;0.001;4.2]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.53100000000001,
+                    58.3611
+                ]
+            },
+            "properties": {
+                "FID": 199,
+                "sample_cod": "CU03-F01D",
+                "longitude": -109.53100000000001,
+                "latitude": 58.3611,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;5.0;0.1;0.02;0.10;0.002;0.02;0.01;0.26;0.001;4.2]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.53100000000001,
+                    58.3611
+                ]
+            },
+            "properties": {
+                "FID": 200,
+                "sample_cod": "CU03-F01E",
+                "longitude": -109.53100000000001,
+                "latitude": 58.3611,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;3.6;0.1;0.02;0.11;0.002;0.02;0.01;0.25;0.001;4.6]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.58,
+                    58.343000000000004
+                ]
+            },
+            "properties": {
+                "FID": 201,
+                "sample_cod": "CU03-F02A",
+                "longitude": -109.58,
+                "latitude": 58.343000000000004,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.2;0.5;0.02;0.14;0.002;0.02;0.02;0.50;0.001;3.3]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.58,
+                    58.343000000000004
+                ]
+            },
+            "properties": {
+                "FID": 202,
+                "sample_cod": "CU03-F02B",
+                "longitude": -109.58,
+                "latitude": 58.343000000000004,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.0;0.1;0.02;0.15;0.002;0.02;0.04;0.51;0.001;5.7]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.58,
+                    58.343000000000004
+                ]
+            },
+            "properties": {
+                "FID": 203,
+                "sample_cod": "CU03-F02C",
+                "longitude": -109.58,
+                "latitude": 58.343000000000004,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;0.9;0.6;0.1;0.01;0.14;0.002;0.02;0.02;0.81;0.004;4.1]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.58,
+                    58.343000000000004
+                ]
+            },
+            "properties": {
+                "FID": 204,
+                "sample_cod": "CU03-F02D",
+                "longitude": -109.58,
+                "latitude": 58.343000000000004,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.8;0.1;0.02;0.17;0.002;0.02;0.01;0.56;0.003;3.9]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.58,
+                    58.343000000000004
+                ]
+            },
+            "properties": {
+                "FID": 205,
+                "sample_cod": "CU03-F02E",
+                "longitude": -109.58,
+                "latitude": 58.343000000000004,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.9;0.1;0.01;0.37;0.002;0.02;0.06;0.65;0.002;4.0]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.54899999999999,
+                    58.351900000000001
+                ]
+            },
+            "properties": {
+                "FID": 206,
+                "sample_cod": "CU03-F03A",
+                "longitude": -109.54900000000001,
+                "latitude": 58.351900000000001,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.39;0.33;0.25;0.08;0.009;0.49;0.003;0.016;0.049;0.008;0.0016;0.87]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.54899999999999,
+                    58.351900000000001
+                ]
+            },
+            "properties": {
+                "FID": 207,
+                "sample_cod": "CU03-F03B",
+                "longitude": -109.54900000000001,
+                "latitude": 58.351900000000001,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.38;0.69;0.28;0.09;0.009;0.36;0.009;0.034;0.034;0.009;0.0017;0.88]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.54899999999999,
+                    58.351900000000001
+                ]
+            },
+            "properties": {
+                "FID": 208,
+                "sample_cod": "CU03-F03C",
+                "longitude": -109.54900000000001,
+                "latitude": 58.351900000000001,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.98;0.36;0.27;0.09;0.009;0.47;0.007;0.018;0.038;0.009;0.0018;0.94]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.54899999999999,
+                    58.351900000000001
+                ]
+            },
+            "properties": {
+                "FID": 209,
+                "sample_cod": "CU03-F03D",
+                "longitude": -109.54900000000001,
+                "latitude": 58.351900000000001,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[3.23;0.61;0.16;0.10;0.010;0.53;0.006;0.040;0.091;0.010;0.0020;1.03]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.583,
+                    58.332099999999997
+                ]
+            },
+            "properties": {
+                "FID": 210,
+                "sample_cod": "CU03-F04A",
+                "longitude": -109.583,
+                "latitude": 58.332099999999997,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[14.59;5.03;2.52;0.30;0.025;2.16;0.0100;0.050;0.126;0.025;0.0050;11.07]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.583,
+                    58.332099999999997
+                ]
+            },
+            "properties": {
+                "FID": 211,
+                "sample_cod": "CU03-F04B",
+                "longitude": -109.583,
+                "latitude": 58.332099999999997,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[26.29;7.30;3.89;0.24;0.024;1.75;0.0049;0.049;0.276;0.024;0.0049;8.76]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 212,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.583,
+                    58.332099999999997
+                ]
+            },
+            "properties": {
+                "FID": 212,
+                "sample_cod": "CU03-F04C",
+                "longitude": -109.583,
+                "latitude": 58.332099999999997,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[20.14;9.56;4.03;0.30;0.025;1.95;0.0101;0.050;0.126;0.025;0.0050;10.07]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.583,
+                    58.332099999999997
+                ]
+            },
+            "properties": {
+                "FID": 213,
+                "sample_cod": "CU03-F04D",
+                "longitude": -109.583,
+                "latitude": 58.332099999999997,
+                "year": "2017",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[109.43;8.46;4.48;0.45;0.025;2.14;0.0099;0.050;0.333;0.025;0.0150;8.95]",
+                "sample_typ": "Food",
+                "facility": "Cluff Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.879300000000001,
+                    43.962400000000002
+                ]
+            },
+            "properties": {
+                "FID": 248,
+                "sample_cod": "DP09-F01",
+                "longitude": -78.879300000000001,
+                "latitude": 43.962400000000002,
+                "year": "2014;2015",
+                "parameter": "Organically Bound Tritium;Tritiated Water;Cesium-137;Cobalt-60",
+                "result": "[1.5;3.4;0;0];[1.5;6.7;0.39;0.32]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.719999999999999,
+                    43.909599999999998
+                ]
+            },
+            "properties": {
+                "FID": 249,
+                "sample_cod": "DP10-F02",
+                "longitude": -78.719999999999999,
+                "latitude": 43.909599999999998,
+                "year": "2014;2015;2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;11.9];[1.5;7];[1.7;12.6]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 254,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 254,
+                "sample_cod": "DP11-F03",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015;2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.6;13.4];[2.1;6.5];[2.1;13.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 255,
+                "sample_cod": "DP11-F04",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015;2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;21.1];[0;0];[1.2;8.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 256,
+                "sample_cod": "DP11-F05",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;2.8];[0;0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 257,
+                "sample_cod": "DP11-F06",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015;2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[0;0];[10.5;3.1];[2.8;7.2]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 258,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 258,
+                "sample_cod": "DP11-F07",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[0;0];[3.5;7.4]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 259,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.727400000000003,
+                    43.891599999999997
+                ]
+            },
+            "properties": {
+                "FID": 259,
+                "sample_cod": "DP11-F08",
+                "longitude": -78.727400000000003,
+                "latitude": 43.891599999999997,
+                "year": "2014;2015;2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[0;0];[1.5;12.4];[1.5;15.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 262,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.794899999999998,
+                    43.973700000000001
+                ]
+            },
+            "properties": {
+                "FID": 262,
+                "sample_cod": "DP12-F09",
+                "longitude": -78.794899999999998,
+                "latitude": 43.973700000000001,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;3.1]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Darlington Nuclear Generating Site",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.346100000000007,
+                    46.380299999999998
+                ]
+            },
+            "properties": {
+                "FID": 304,
+                "sample_cod": "GI05-F01",
+                "longitude": -72.346100000000007,
+                "latitude": 46.380299999999998,
+                "year": "2015",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[7.3;3.2;0.25;0.29]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.366,
+                    46.431800000000003
+                ]
+            },
+            "properties": {
+                "FID": 306,
+                "sample_cod": "GI06-F02",
+                "longitude": -72.366,
+                "latitude": 46.431800000000003,
+                "year": "2015;2016",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[8;1.5;0.76;0.84];[1.5;0.8;0.9;6.3]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.366,
+                    46.431800000000003
+                ]
+            },
+            "properties": {
+                "FID": 307,
+                "sample_cod": "GI06-F03",
+                "longitude": -72.366,
+                "latitude": 46.431800000000003,
+                "year": "2015;2016",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[6;1.5;0.77;0.88];[1.5;1.1;1.2;5.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.422899999999998,
+                    46.341099999999997
+                ]
+            },
+            "properties": {
+                "FID": 311,
+                "sample_cod": "GI07-F04",
+                "longitude": -72.422899999999998,
+                "latitude": 46.341099999999997,
+                "year": "2015;2016",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[2.6;1.5;0.76;0.84];[1.5;1.1;1.3;2.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 312,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.422899999999998,
+                    46.341099999999997
+                ]
+            },
+            "properties": {
+                "FID": 312,
+                "sample_cod": "GI07-F05",
+                "longitude": -72.422899999999998,
+                "latitude": 46.341099999999997,
+                "year": "2015;2016",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[1.9;1.5;1.08;1.27];[1.5;1;1.3;2.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.422899999999998,
+                    46.341099999999997
+                ]
+            },
+            "properties": {
+                "FID": 313,
+                "sample_cod": "GI07-F06",
+                "longitude": -72.422899999999998,
+                "latitude": 46.341099999999997,
+                "year": "2015;2016",
+                "parameter": "Tritiated water (HTO);Organically Bound Tritium (OBT);Cesium-137;Cobalt-60",
+                "result": "[2.7;1.5;0.64;0.76];[1.5;0.9;1.1;3.9]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.259200000000007,
+                    46.392800000000001
+                ]
+            },
+            "properties": {
+                "FID": 319,
+                "sample_cod": "GI10-F07",
+                "longitude": -72.259200000000007,
+                "latitude": 46.392800000000001,
+                "year": "2016",
+                "parameter": "Organically Bound Tritium (OBT);Cesium-137;Cobalt-60;Tritiated water (HTO)",
+                "result": "[1.5;0.3;0.3;2.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "Gentilly-2 Nuclear Power Plant",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 351,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 351,
+                "sample_cod": "ML01-F01A",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.03;1;1.2;0.06;0.02;0.16;0.002;0.02;0.01;0.21;0.001;3.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 352,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 352,
+                "sample_cod": "ML01-F01B",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;0.5;0.1;0.01;0.08;0.002;0.02;0.01;0.16;0.001;3.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 353,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 353,
+                "sample_cod": "ML01-F01C",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;1.7;0.2;0.02;0.12;0.002;0.02;0.01;0.17;0.001;9.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 354,
+                "sample_cod": "ML01-F01D",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.04;1;0.4;0.07;0.02;0.12;0.002;0.02;0.01;0.16;0.001;5.6]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 355,
+                "sample_cod": "ML01-F01E",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;2.2;0.2;0.02;0.18;0.002;0.02;0.01;0.18;0.001;4.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 356,
+                "sample_cod": "ML01-F01F",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;1.1;0.1;0.02;0.13;0.002;0.02;0.01;0.17;0.001;4.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 357,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 357,
+                "sample_cod": "ML01-F01G",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;1.8;0.2;0.02;0.15;0.002;0.02;0.02;0.2;0.001;3.9]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 358,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 358,
+                "sample_cod": "ML01-F01H",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;5;0.1;0.04;0.13;0.002;0.02;0.01;0.27;0.001;8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 359,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 359,
+                "sample_cod": "ML01-F01I",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.09;1;1.1;0.2;0.02;0.1;0.002;0.02;0.01;0.18;0.001;4.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 360,
+                "sample_cod": "ML01-F01J",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.2;0.1;0.02;0.1;0.002;0.02;0.01;0.18;0.001;2.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 361,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 361,
+                "sample_cod": "ML01-F02A",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;0.2;0.2;0.02;0.1;0.002;0.02;0.01;0.26;0.001;2.9]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 362,
+                "sample_cod": "ML01-F02B",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;0.6;0.2;0.04;0.22;0.002;0.02;0.01;0.29;0.001;5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 363,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 363,
+                "sample_cod": "ML01-F02C",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;0.3;0.1;0.01;0.1;0.002;0.02;0.01;0.29;0.001;3]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 364,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 364,
+                "sample_cod": "ML01-F02D",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.5;0.1;0.02;0.08;0.002;0.02;0.02;0.4;0.001;2.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 365,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 365,
+                "sample_cod": "ML01-F02E",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.6;0.1;0.02;0.22;0.002;0.02;0.01;0.35;0.001;4.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 366,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 366,
+                "sample_cod": "ML01-F02F",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.8;0.1;0.01;0.09;0.002;0.02;0.01;0.28;0.001;2.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 367,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 367,
+                "sample_cod": "ML01-F02G",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;1;0.1;0.02;0.1;0.002;0.02;0.01;0.67;0.001;5.5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 368,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 368,
+                "sample_cod": "ML01-F02H",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.05;1;0.4;0.1;0.03;0.21;0.002;0.02;0.01;0.33;0.001;4.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 369,
+                "sample_cod": "ML01-F02I",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.03;1;0.4;0.05;0.02;0.11;0.002;0.02;0.01;0.21;0.001;3.5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 370,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.883,
+                    58.411799999999999
+                ]
+            },
+            "properties": {
+                "FID": 370,
+                "sample_cod": "ML01-F02J",
+                "longitude": -103.883,
+                "latitude": 58.411799999999999,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.3;0.1;0.03;0.26;0.002;0.02;0.01;0.22;0.001;5.1]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.889,
+                    58.398899999999998
+                ]
+            },
+            "properties": {
+                "FID": 371,
+                "sample_cod": "ML01-F03A",
+                "longitude": -103.889,
+                "latitude": 58.398899999999998,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.32;1.22;0.75;0.076;0.008;0.61;0.015;0.03;0.13;0.008;0.003;1.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 372,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.869,
+                    58.417400000000001
+                ]
+            },
+            "properties": {
+                "FID": 372,
+                "sample_cod": "ML01-F03B",
+                "longitude": -103.869,
+                "latitude": 58.417400000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.33;0.6;0.21;0.075;0.007;0.57;0.009;0.015;0.14;0.007;0.001;1.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 373,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.866,
+                    58.4069
+                ]
+            },
+            "properties": {
+                "FID": 373,
+                "sample_cod": "ML01-F03C",
+                "longitude": -103.866,
+                "latitude": 58.4069,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.46;0.48;0.32;0.079;0.008;0.63;0.003;0.016;0.09;0.008;0.002;1.3]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.86499999999999,
+                    58.413400000000003
+                ]
+            },
+            "properties": {
+                "FID": 374,
+                "sample_cod": "ML01-F03D",
+                "longitude": -103.86499999999999,
+                "latitude": 58.413400000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.23;0.44;0.2;0.073;0.007;0.57;0.004;0.015;0.11;0.007;0.001;1.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.889,
+                    58.398899999999998
+                ]
+            },
+            "properties": {
+                "FID": 375,
+                "sample_cod": "ML01-F04A",
+                "longitude": -103.889,
+                "latitude": 58.398899999999998,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[3.89;10.96;4.95;0.177;0.018;1.2;0.007;0.035;0.13;0.018;0.004;7.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.869,
+                    58.417400000000001
+                ]
+            },
+            "properties": {
+                "FID": 376,
+                "sample_cod": "ML01-F04B",
+                "longitude": -103.869,
+                "latitude": 58.417400000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[3.4;21.7;4.59;0.247;0.025;3.35;0.02;0.049;0.45;0.025;0.005;8.9]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.866,
+                    58.4069
+                ]
+            },
+            "properties": {
+                "FID": 377,
+                "sample_cod": "ML01-F04C",
+                "longitude": -103.866,
+                "latitude": 58.4069,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[8.64;18.81;7.12;0.305;0.025;1.88;0.01;0.051;0.46;0.025;0.005;15.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 378,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.86499999999999,
+                    58.413400000000003
+                ]
+            },
+            "properties": {
+                "FID": 378,
+                "sample_cod": "ML01-F04D",
+                "longitude": -103.86499999999999,
+                "latitude": 58.413400000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[5.58;19.78;7.1;0.304;0.025;2.18;0.01;0.051;0.32;0.025;0.005;14.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 382,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 382,
+                "sample_cod": "ML02-F01A",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.09;1;1.4;0.1;0.06;0.11;0.002;0.02;0.01;0.34;0.001;5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 383,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 383,
+                "sample_cod": "ML02-F01B",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.2;1;1.7;0.1;0.05;0.19;0.002;0.02;0.01;0.32;0.001;4.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 384,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 384,
+                "sample_cod": "ML02-F01C",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.9;0.1;0.01;0.14;0.002;0.02;0.01;0.29;0.001;4.6]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 385,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 385,
+                "sample_cod": "ML02-F01D",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;2.3;0.1;0.05;0.12;0.002;0.02;0.01;0.36;0.001;3.5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 386,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 386,
+                "sample_cod": "ML02-F01E",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.09;1;2.2;0.2;0.03;0.11;0.002;0.02;0.01;0.28;0.001;3.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 387,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 387,
+                "sample_cod": "ML02-F01F",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;1.5;0.1;0.04;0.13;0.002;0.02;0.01;0.33;0.001;4.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 388,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 388,
+                "sample_cod": "ML02-F01G",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;1.3;0.1;0.04;0.09;0.002;0.02;0.01;0.31;0.001;4.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 389,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 389,
+                "sample_cod": "ML02-F01H",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;3.5;0.1;0.06;0.22;0.002;0.02;0.01;0.58;0.001;8.9]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 390,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 390,
+                "sample_cod": "ML02-F01I",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;1.6;0.1;0.04;0.13;0.002;0.02;0.01;0.26;0.001;3.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 391,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 391,
+                "sample_cod": "ML02-F01J",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;2;2.3;0.1;0.03;0.14;0.002;0.02;0.01;0.32;0.001;5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 392,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 392,
+                "sample_cod": "ML02-F02A",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.2;0.1;0.03;0.14;0.002;0.02;0.02;0.42;0.001;4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 393,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 393,
+                "sample_cod": "ML02-F02B",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.06;1;0.6;0.1;0.03;0.25;0.002;0.02;0.01;0.5;0.001;4.3]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 394,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 394,
+                "sample_cod": "ML02-F02C",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.2;0.1;0.02;0.21;0.002;0.02;0.01;0.48;0.001;3.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 395,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 395,
+                "sample_cod": "ML02-F02D",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.1;1;0.2;0.2;0.06;0.13;0.002;0.02;0.01;0.43;0.001;4.3]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 396,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 396,
+                "sample_cod": "ML02-F02E",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.2;0.1;0.06;0.09;0.002;0.02;0.01;0.5;0.001;3.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 397,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 397,
+                "sample_cod": "ML02-F02F",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.02;1;0.2;0.03;0.07;0.16;0.002;0.02;0.06;0.43;0.001;3.1]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 398,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 398,
+                "sample_cod": "ML02-F02G",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;0.3;0.1;0.06;0.15;0.002;0.02;0.01;0.5;0.001;3.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 399,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 399,
+                "sample_cod": "ML02-F02H",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;0.3;0.2;0.06;0.17;0.003;0.02;0.01;0.3;0.001;3.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 400,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 400,
+                "sample_cod": "ML02-F02I",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.08;1;0.4;0.2;0.07;0.18;0.002;0.02;0.01;0.3;0.001;4.7]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 401,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.861,
+                    58.183300000000003
+                ]
+            },
+            "properties": {
+                "FID": 401,
+                "sample_cod": "ML02-F02J",
+                "longitude": -103.861,
+                "latitude": 58.183300000000003,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.07;1;0.4;0.1;0.06;0.19;0.002;0.02;0.01;0.38;0.001;3.6]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 402,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.89299999999999,
+                    58.170400000000001
+                ]
+            },
+            "properties": {
+                "FID": 402,
+                "sample_cod": "ML02-F03A",
+                "longitude": -103.893,
+                "latitude": 58.170400000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.36;0.59;0.19;0.089;0.007;0.67;0.006;0.015;0.15;0.007;0.001;1.1]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 403,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.83499999999999,
+                    58.193000000000005
+                ]
+            },
+            "properties": {
+                "FID": 403,
+                "sample_cod": "ML02-F03B",
+                "longitude": -103.83499999999999,
+                "latitude": 58.192999999999998,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.74;0.49;0.38;0.082;0.008;0.69;0.003;0.016;0.14;0.008;0.002;1.2]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 404,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.831,
+                    58.190199999999997
+                ]
+            },
+            "properties": {
+                "FID": 404,
+                "sample_cod": "ML02-F03C",
+                "longitude": -103.831,
+                "latitude": 58.190199999999997,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.29;0.31;0.12;0.076;0.008;0.58;0.002;0.015;0.1;0.008;0.002;0.9]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 405,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.833,
+                    58.188600000000001
+                ]
+            },
+            "properties": {
+                "FID": 405,
+                "sample_cod": "ML02-F03D",
+                "longitude": -103.833,
+                "latitude": 58.188600000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[0.46;0.46;0.22;0.077;0.008;0.7;0.005;0.015;0.14;0.008;0.002;1]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 406,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.89299999999999,
+                    58.170400000000001
+                ]
+            },
+            "properties": {
+                "FID": 406,
+                "sample_cod": "ML02-F04A",
+                "longitude": -103.893,
+                "latitude": 58.170400000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[8.04;19.6;7.54;0.251;0.025;1.96;0.01;0.05;0.27;0.025;0.005;8.5]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 407,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.83499999999999,
+                    58.193000000000005
+                ]
+            },
+            "properties": {
+                "FID": 407,
+                "sample_cod": "ML02-F04B",
+                "longitude": -103.83499999999999,
+                "latitude": 58.192999999999998,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[12.21;20.17;6.9;0.265;0.027;1.96;0.011;0.053;0.64;0.027;0.005;9.6]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 408,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.831,
+                    58.190199999999997
+                ]
+            },
+            "properties": {
+                "FID": 408,
+                "sample_cod": "ML02-F04C",
+                "longitude": -103.831,
+                "latitude": 58.190199999999997,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[7.61;15.72;5.58;0.203;0.025;2.03;0.03;0.051;0.36;0.025;0.01;9.6]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 409,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.833,
+                    58.188600000000001
+                ]
+            },
+            "properties": {
+                "FID": 409,
+                "sample_cod": "ML02-F04D",
+                "longitude": -103.833,
+                "latitude": 58.188600000000001,
+                "year": "2016",
+                "parameter": "Radium-226;Lead-210;Polonium-210;Thorium-230;Arsenic;Copper;Lead;Molybdenum;Nickel;Selenium;Uranium;Zinc",
+                "result": "[10.85;17.26;4.74;0.296;0.025;3.75;0.015;0.049;0.49;0.025;0.005;9.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "McClean Lake",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 475,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.896799999999999,
+                    45.463799999999999
+                ]
+            },
+            "properties": {
+                "FID": 475,
+                "sample_cod": "PL01-F01",
+                "longitude": -65.896799999999999,
+                "latitude": 45.463799999999999,
+                "year": "2014;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium",
+                "result": "[1.5;1.5];[0;0];[0;0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 478,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.089799999999997
+                ]
+            },
+            "properties": {
+                "FID": 478,
+                "sample_cod": "PL04-F02",
+                "longitude": -66.419799999999995,
+                "latitude": 45.089799999999997,
+                "year": "2014;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium",
+                "result": "[6.8;1.5];[0;0];[0;0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 479,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.098799999999997
+                ]
+            },
+            "properties": {
+                "FID": 479,
+                "sample_cod": "PL04-F03",
+                "longitude": -66.419799999999995,
+                "latitude": 45.098799999999997,
+                "year": "2014;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium",
+                "result": "[7;1.5];[0;0];[0;0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 480,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419899999999998,
+                    45.0899
+                ]
+            },
+            "properties": {
+                "FID": 480,
+                "sample_cod": "PL04-F04",
+                "longitude": -66.419899999999998,
+                "latitude": 45.0899,
+                "year": "2014;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[7.4;1.5;0;0];[13.1;1.6;0;0];[2.1;1.1;1.4;10.5]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 481,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419899999999998,
+                    45.0899
+                ]
+            },
+            "properties": {
+                "FID": 481,
+                "sample_cod": "PL04-F06",
+                "longitude": -66.419899999999998,
+                "latitude": 45.0899,
+                "year": "2014;2015;2016",
+                "parameter": "Tritiated Water;Organically Bound Tritium",
+                "result": "[0;0];[9.9;1.5];[0;0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 482,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419899999999998,
+                    45.089300000000001
+                ]
+            },
+            "properties": {
+                "FID": 482,
+                "sample_cod": "PL04-F07",
+                "longitude": -66.419899999999998,
+                "latitude": 45.089300000000001,
+                "year": "2014;2015;2016;2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0;0;0;0];[0;0;0;0];[1.5;3.7;4.2;12.9];[1.2;0.94;0.98;11.4]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 483,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419899999999998,
+                    45.089300000000001
+                ]
+            },
+            "properties": {
+                "FID": 483,
+                "sample_cod": "PL04-F14",
+                "longitude": -66.419899999999998,
+                "latitude": 45.089300000000001,
+                "year": "2014;2015;2016;2017",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60;Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[16;1.5;0;0;0;0;0;0];[40.9;2.8;0.82;0.97;0;0;0;0];[0;0;0;0;0.5;0.95;1.04;20.5];[2.2;0.80;0.83;19.2]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 484,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.089799999999997
+                ]
+            },
+            "properties": {
+                "FID": 484,
+                "sample_cod": "PL04-F15",
+                "longitude": -66.419799999999995,
+                "latitude": 45.089799999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.2;1.0;1.1;3.8]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 485,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.089799999999997
+                ]
+            },
+            "properties": {
+                "FID": 485,
+                "sample_cod": "PL04-F16",
+                "longitude": -66.419799999999995,
+                "latitude": 45.089799999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[2.4;0.94;1.1;15.3]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 486,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.089799999999997
+                ]
+            },
+            "properties": {
+                "FID": 486,
+                "sample_cod": "PL04-F17",
+                "longitude": -66.419799999999995,
+                "latitude": 45.089799999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.2;1.2;1.3;3.0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 487,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.419799999999995,
+                    45.089799999999997
+                ]
+            },
+            "properties": {
+                "FID": 487,
+                "sample_cod": "PL04-F18",
+                "longitude": -66.419799999999995,
+                "latitude": 45.089799999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.2;1.1;1.2;4.2]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 510,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.166399999999996,
+                    45.227499999999999
+                ]
+            },
+            "properties": {
+                "FID": 510,
+                "sample_cod": "PL12-F05",
+                "longitude": -66.166399999999996,
+                "latitude": 45.227499999999999,
+                "year": "2014;2015;2016;2017",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60;Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.5;1.5;0;0;0;0;0;0];[17.0;15.9;0.89;0.99;0;0;0;0];[0;0;0;0;0.6;0.87;0.89;2.4];[1.2;0.68;0.77;3.0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 511,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.165599999999998,
+                    45.227699999999999
+                ]
+            },
+            "properties": {
+                "FID": 511,
+                "sample_cod": "PL12-F08",
+                "longitude": -66.165599999999998,
+                "latitude": 45.227699999999999,
+                "year": "2014;2015;2016;2017",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[0;0;0;0];[17.0;1.5;1.6;1.7];[0;0;0;0];[1.2;0.77;0.87;3.0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 512,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.165599999999998,
+                    45.227699999999999
+                ]
+            },
+            "properties": {
+                "FID": 512,
+                "sample_cod": "PL12-F19",
+                "longitude": -66.165599999999998,
+                "latitude": 45.227699999999999,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.2;0.78;0.94;3.0]",
+                "sample_typ": "Food",
+                "facility": "Point Lepreau Generating Station",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 545,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.208500000000001,
+                    43.8474
+                ]
+            },
+            "properties": {
+                "FID": 545,
+                "sample_cod": "PP13-F01",
+                "longitude": -79.208500000000001,
+                "latitude": 43.8474,
+                "year": "2014;2015;2017",
+                "parameter": "Tritiated Water;Organically Bound Tritium;Cesium-137;Cobalt-60",
+                "result": "[6.8;2.5;0;0];[6.7;1.5;0.25;0.32];[1.5;11.1]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Pickering NPP",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 546,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.180999999999997,
+                    43.853499999999997
+                ]
+            },
+            "properties": {
+                "FID": 546,
+                "sample_cod": "PP14-F02",
+                "longitude": -79.180999999999997,
+                "latitude": 43.853499999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;15.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Pickering NPP",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 547,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.180999999999997,
+                    43.853499999999997
+                ]
+            },
+            "properties": {
+                "FID": 547,
+                "sample_cod": "PP14-F03",
+                "longitude": -79.180999999999997,
+                "latitude": 43.853499999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;7.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Pickering NPP",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 548,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.180999999999997,
+                    43.853499999999997
+                ]
+            },
+            "properties": {
+                "FID": 548,
+                "sample_cod": "PP14-F04",
+                "longitude": -79.180999999999997,
+                "latitude": 43.853499999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;12.8]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Pickering NPP",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 549,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.180999999999997,
+                    43.853499999999997
+                ]
+            },
+            "properties": {
+                "FID": 549,
+                "sample_cod": "PP14-F05",
+                "longitude": -79.180999999999997,
+                "latitude": 43.853499999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Tritiated Water",
+                "result": "[1.5;7.4]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Pickering NPP",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 550,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799500000000002
+                ]
+            },
+            "properties": {
+                "FID": 550,
+                "sample_cod": "SR01-F01",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799500000000002,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[0];[180];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 551,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799399999999999
+                ]
+            },
+            "properties": {
+                "FID": 551,
+                "sample_cod": "SR01-F02",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799399999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[89.63];[43.2];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 552,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799500000000002
+                ]
+            },
+            "properties": {
+                "FID": 552,
+                "sample_cod": "SR01-F03",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799500000000002,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium;Organically Bound Tritium",
+                "result": "[0;0];[37;0];[4.9;1.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 553,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799399999999999
+                ]
+            },
+            "properties": {
+                "FID": 553,
+                "sample_cod": "SR01-F06",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799399999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium;Tritium;Organically Bound Tritium",
+                "result": "[35.8;0;0];[0;0;0];[0;7.5;1.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 554,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799399999999999
+                ]
+            },
+            "properties": {
+                "FID": 554,
+                "sample_cod": "SR01-F07",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799399999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[19.3];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 555,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799399999999999
+                ]
+            },
+            "properties": {
+                "FID": 555,
+                "sample_cod": "SR01-F08",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799399999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[25.31];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 556,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.094999999999999,
+                    45.799399999999999
+                ]
+            },
+            "properties": {
+                "FID": 556,
+                "sample_cod": "SR01-F09",
+                "longitude": -77.094999999999999,
+                "latitude": 45.799399999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[18.7];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 565,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.118499999999997,
+                    45.805500000000002
+                ]
+            },
+            "properties": {
+                "FID": 565,
+                "sample_cod": "SR04-F04",
+                "longitude": -77.118499999999997,
+                "latitude": 45.805500000000002,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[10.8];[14.6];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 568,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.123000000000005,
+                    45.806199999999997
+                ]
+            },
+            "properties": {
+                "FID": 568,
+                "sample_cod": "SR06-F10",
+                "longitude": -77.123000000000005,
+                "latitude": 45.806199999999997,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[93.43];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 569,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.121099999999998,
+                    45.807699999999997
+                ]
+            },
+            "properties": {
+                "FID": 569,
+                "sample_cod": "SR07-F11",
+                "longitude": -77.121099999999998,
+                "latitude": 45.807699999999997,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[68.78];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 570,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.121600000000001,
+                    45.808199999999999
+                ]
+            },
+            "properties": {
+                "FID": 570,
+                "sample_cod": "SR08-F12",
+                "longitude": -77.121600000000001,
+                "latitude": 45.808199999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[95.14];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 571,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.121600000000001,
+                    45.808199999999999
+                ]
+            },
+            "properties": {
+                "FID": 571,
+                "sample_cod": "SR08-F13",
+                "longitude": -77.121600000000001,
+                "latitude": 45.808199999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[84.67];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 572,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.121899999999997,
+                    45.808199999999999
+                ]
+            },
+            "properties": {
+                "FID": 572,
+                "sample_cod": "SR09-F14",
+                "longitude": -77.121899999999997,
+                "latitude": 45.808199999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[19.33];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 573,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.121899999999997,
+                    45.808199999999999
+                ]
+            },
+            "properties": {
+                "FID": 573,
+                "sample_cod": "SR09-F15",
+                "longitude": -77.121899999999997,
+                "latitude": 45.808199999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium",
+                "result": "[26.28];[0];[0]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 576,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.100999999999999,
+                    45.828299999999999
+                ]
+            },
+            "properties": {
+                "FID": 576,
+                "sample_cod": "SR12-F05",
+                "longitude": -77.100999999999999,
+                "latitude": 45.828299999999999,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium;Organically Bound Tritium",
+                "result": "[1.5;0];[1.5;0];[1.7;1.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 580,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.116399999999999,
+                    45.807400000000001
+                ]
+            },
+            "properties": {
+                "FID": 580,
+                "sample_cod": "SR14-F07",
+                "longitude": -77.116399999999999,
+                "latitude": 45.807400000000001,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium;Organically Bound Tritium",
+                "result": "[0;0];[0;0];[34.1;11.8]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 581,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.116399999999999,
+                    45.807400000000001
+                ]
+            },
+            "properties": {
+                "FID": 581,
+                "sample_cod": "SR14-F08",
+                "longitude": -77.116399999999999,
+                "latitude": 45.807400000000001,
+                "year": "2013;2014;2015",
+                "parameter": "Tritium;Organically Bound Tritium",
+                "result": "[0;0];[0;0];[99.4;17.5]",
+                "sample_typ": "Foodstuffs",
+                "facility": "SRB Technologies (Canada) Inc",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 584,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.371099999999998,
+                    44.2742
+                ]
+            },
+            "properties": {
+                "FID": 584,
+                "sample_cod": "SS01-F01",
+                "longitude": -78.371099999999998,
+                "latitude": 44.2742,
+                "year": "2013;2014;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[3.5;3.5];[0;3];[0;0]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Shield Source Inc.",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 591,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.353899999999996,
+                    44.235599999999998
+                ]
+            },
+            "properties": {
+                "FID": 591,
+                "sample_cod": "SS04-F02",
+                "longitude": -78.353899999999996,
+                "latitude": 44.235599999999998,
+                "year": "2013;2014;2015",
+                "parameter": "Organically Bound Tritium;Tritium",
+                "result": "[6.4;120];[0;75];[0;0]",
+                "sample_typ": "Food Stuffs",
+                "facility": "Shield Source Inc.",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 653,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.219899999999996,
+                    50.577599999999997
+                ]
+            },
+            "properties": {
+                "FID": 653,
+                "sample_cod": "WL04-F01",
+                "longitude": -96.219899999999996,
+                "latitude": 50.577599999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[1.3;1.1;1.2;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 654,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.283100000000005,
+                    50.616199999999999
+                ]
+            },
+            "properties": {
+                "FID": 654,
+                "sample_cod": "WL05-F02",
+                "longitude": -96.283100000000005,
+                "latitude": 50.616199999999999,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0.9;1.1;1.2;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 655,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.311300000000003,
+                    50.623999999999995
+                ]
+            },
+            "properties": {
+                "FID": 655,
+                "sample_cod": "WL06-F03",
+                "longitude": -96.311300000000003,
+                "latitude": 50.624000000000002,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0.9;1.1;1.2;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 656,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.027900000000002,
+                    50.104999999999997
+                ]
+            },
+            "properties": {
+                "FID": 656,
+                "sample_cod": "WL07-F04",
+                "longitude": -96.027900000000002,
+                "latitude": 50.104999999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0.9;1.0;1.3;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 657,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.027900000000002,
+                    50.104999999999997
+                ]
+            },
+            "properties": {
+                "FID": 657,
+                "sample_cod": "WL07-F05",
+                "longitude": -96.027900000000002,
+                "latitude": 50.104999999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0.9;1.4;1.5;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 658,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.027900000000002,
+                    50.104999999999997
+                ]
+            },
+            "properties": {
+                "FID": 658,
+                "sample_cod": "WL07-F06",
+                "longitude": -96.027900000000002,
+                "latitude": 50.104999999999997,
+                "year": "2017",
+                "parameter": "Organically Bound Tritium;Cesium-137;Cobalt-60;Tritiated Water",
+                "result": "[0.9;1.2;1.5;3.0]",
+                "sample_typ": "Food",
+                "facility": "Whiteshell Laboratories",
+                "sample_t_c": 1
+            }
+        }
+    ]
+}

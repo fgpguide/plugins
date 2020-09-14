@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "data1": "10;23",
+                "data2": "30;",
+                "data3": "20;",
+                "data4": "40",
+                "label": "Red;Green;Blue;Yellow;Orange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110,
+                    55
+                ]
+            }
+        }
+    ]
+}

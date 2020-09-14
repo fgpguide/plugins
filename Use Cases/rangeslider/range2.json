@@ -563,11 +563,11 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriFeature",
+                "layerType": "esriFeature",
+                "toggleSymbology": true,
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
                 "controls": [
@@ -595,56 +595,60 @@
                     "snapshot": false,
                     "hovertips": true
                 },
-                "layerEntries": [
-                    {
-                        "outfields": "*",
-                        "stateOnly": false,
-                        "table": {
-                            "title": "",
-                            "maximize": false,
-                            "lazyFilter": false,
-                            "applyMap": false,
-                            "showFilter": true,
-                            "filterByExtent": false,
-                            "searchStrictMatch": false,
-                            "printEnabled": false,
-                            "columns": []
-                        },
-                        "controls": [
-                            "opacity",
-                            "visibility",
-                            "boundingBox",
-                            "query",
-                            "snapshot",
-                            "metadata",
-                            "boundaryZoom",
-                            "refresh",
-                            "reload",
-                            "remove",
-                            "settings",
-                            "data",
-                            "styles"
-                        ],
-                        "disabledControls": [],
-                        "state": {
-                            "opacity": 1,
-                            "visibility": true,
-                            "boundingBox": false,
-                            "query": true,
-                            "snapshot": false,
-                            "hovertips": true
-                        },
-                        "allStyles": [
-                            ""
-                        ],
-                        "init": true,
-                        "id": "REPS.MEM.PRES_GZ.700.09",
-                        "name": ""
-                    }
+                "table": {
+                    "title": "",
+                    "maximize": false,
+                    "lazyFilter": false,
+                    "applyMap": false,
+                    "showFilter": true,
+                    "filterByExtent": false,
+                    "searchStrictMatch": false,
+                    "printEnabled": false,
+                    "columns": []
+                },
+                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/OceanDataInventory_Current_Salinity_Temperature_EN/MapServer/2",
+                "name": "Ocean Data Inventory Temperature",
+                "id": "Ocean Data Inventory Temperature***3f030a6b"
+            },
+            {
+                "layerChoice": "esriFeature",
+                "layerType": "esriFeature",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
                 ],
-                "name": "REPS.MEM.PRES_GZ.700.09",
-                "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                "url": "https://geo.weather.gc.ca/geomet"
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "url": "https://gisp.dfo-mpo.gc.ca/arcgis/rest/services/FGP/OceanDataInventory_Current_Salinity_Temperature_EN/MapServer/1",
+                "name": "Ocean Data Inventory Salinity",
+                "id": "Ocean Data Inventory Salinity***f565d47f",
+                "table": {
+                    "columns": []
+                }
             }
         ],
         "legend": {
@@ -801,21 +805,17 @@
                 "delay"
             ],
             "params": {
-                "type": "wmst",
-                "delay": "3000",
-                "range": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                },
-                "limit": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                }
+                "type": "date",
+                "delay": "3000"
             },
             "layers": [
                 {
-                    "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                    "field": "TIME"
+                    "id": "Ocean Data Inventory Temperature***3f030a6b",
+                    "field": "COLLECTION_START_DATE"
+                },
+                {
+                    "id": "Ocean Data Inventory Salinity***f565d47f",
+                    "field": "COLLECTION_START_DATE"
                 }
             ]
         },

@@ -563,13 +563,104 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/fire_season_length_en/MapServer",
+                "name": "test",
+                "id": "test***8100ced0",
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 1,
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
                 "controls": [
                     "opacity",
                     "visibility",
@@ -608,7 +699,16 @@
                             "filterByExtent": false,
                             "searchStrictMatch": false,
                             "printEnabled": false,
-                            "columns": []
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
                         },
                         "controls": [
                             "opacity",
@@ -634,17 +734,195 @@
                             "snapshot": false,
                             "hovertips": true
                         },
-                        "allStyles": [
-                            ""
-                        ],
                         "init": true,
-                        "id": "REPS.MEM.PRES_GZ.700.09",
-                        "name": ""
+                        "index": 2
                     }
                 ],
-                "name": "REPS.MEM.PRES_GZ.700.09",
-                "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                "url": "https://geo.weather.gc.ca/geomet"
+                "name": "test 2",
+                "id": "test 2***e4a34275",
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/fire_season_length_en/MapServer"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 3
+                    }
+                ],
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/fire_season_length_en/MapServer",
+                "name": "test 3",
+                "id": "test 3***a3a081ed"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 4
+                    }
+                ],
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/fire_season_length_en/MapServer",
+                "name": "test 4",
+                "id": "test 4***9bd02999"
             }
         ],
         "legend": {
@@ -794,30 +1072,16 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": true,
+            "enable": false,
             "open": true,
             "controls": [
                 "lock",
                 "delay"
             ],
             "params": {
-                "type": "wmst",
-                "delay": "3000",
-                "range": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                },
-                "limit": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                }
-            },
-            "layers": [
-                {
-                    "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                    "field": "TIME"
-                }
-            ]
+                "type": "number",
+                "delay": "3000"
+            }
         },
         "coordInfo": {
             "enable": false
@@ -874,13 +1138,39 @@
             ]
         },
         "thematicSlider": {
-            "enable": false,
+            "enable": true,
             "open": true,
             "autorun": false,
             "loop": false,
             "description": true,
             "slider": true,
-            "stack": false
+            "stack": false,
+            "layers": [
+                {
+                    "duration": 3000,
+                    "id": "test***8100ced0",
+                    "title": "Fire Season Length across Canada",
+                    "description": "Fire Season Length under RCP 8.5 - Short-term [2011-2040]"
+                },
+                {
+                    "duration": 3000,
+                    "id": "test 2***e4a34275",
+                    "title": "Fire Season Length across Canada",
+                    "description": "Fire Season Length under RCP 8.5 - Medium-term [2041-2070]"
+                },
+                {
+                    "duration": 3000,
+                    "title": "Fire Season Length across Canada",
+                    "id": "test 3***a3a081ed",
+                    "description": "Fire Season Length under RCP 8.5 - Long-term [2071-2100]"
+                },
+                {
+                    "duration": 3000,
+                    "title": "Fire Season Length across Canada",
+                    "id": "test 4***9bd02999",
+                    "description": "Fire Season Length under RCP 2.6 - Long-term [2071-2100]"
+                }
+            ]
         }
     }
 }

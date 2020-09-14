@@ -563,13 +563,15 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
                 "controls": [
                     "opacity",
                     "visibility",
@@ -608,7 +610,16 @@
                             "filterByExtent": false,
                             "searchStrictMatch": false,
                             "printEnabled": false,
-                            "columns": []
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
                         },
                         "controls": [
                             "opacity",
@@ -634,17 +645,650 @@
                             "snapshot": false,
                             "hovertips": true
                         },
-                        "allStyles": [
-                            ""
-                        ],
                         "init": true,
-                        "id": "REPS.MEM.PRES_GZ.700.09",
-                        "name": ""
+                        "index": 1
                     }
                 ],
-                "name": "REPS.MEM.PRES_GZ.700.09",
-                "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                "url": "https://geo.weather.gc.ca/geomet"
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer",
+                "name": "Xs04 Wetlands 1",
+                "id": "Xs04 Wetlands 1***b07f03fd"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 6
+                    }
+                ],
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer",
+                "name": "Xs04 Wetlands 6",
+                "id": "Xs04 Wetlands 6***05bde9ae"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 10
+                    }
+                ],
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer",
+                "name": "Xs04 Wetlands 10",
+                "id": "Xs04 Wetlands 10***ae484a14"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 15
+                    }
+                ],
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer",
+                "name": "Xs04 Wetlands 15",
+                "id": "Xs04 Wetlands 15***10c84c9d"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 21
+                    }
+                ],
+                "name": "Xs04 Wetlands 21",
+                "id": "Xs04 Wetlands 21***299e9795",
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 26
+                    }
+                ],
+                "name": "Xs04 Wetlands 26",
+                "id": "Xs04 Wetlands 26***063205d3",
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 31
+                    }
+                ],
+                "name": "Xs04 Wetlands 31",
+                "id": "Xs04 Wetlands 31***2f030805",
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer"
+            },
+            {
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "layerEntries": [
+                    {
+                        "outfields": "*",
+                        "stateOnly": false,
+                        "table": {
+                            "title": "",
+                            "maximize": false,
+                            "lazyFilter": false,
+                            "applyMap": false,
+                            "showFilter": true,
+                            "filterByExtent": false,
+                            "searchStrictMatch": false,
+                            "printEnabled": false,
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
+                        },
+                        "controls": [
+                            "opacity",
+                            "visibility",
+                            "boundingBox",
+                            "query",
+                            "snapshot",
+                            "metadata",
+                            "boundaryZoom",
+                            "refresh",
+                            "reload",
+                            "remove",
+                            "settings",
+                            "data",
+                            "styles"
+                        ],
+                        "disabledControls": [],
+                        "state": {
+                            "opacity": 1,
+                            "visibility": true,
+                            "boundingBox": false,
+                            "query": true,
+                            "snapshot": false,
+                            "hovertips": true
+                        },
+                        "init": true,
+                        "index": 36
+                    }
+                ],
+                "name": "Xs04 Wetlands 36",
+                "id": "Xs04 Wetlands 36***f3660f20",
+                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/xSO4D/MapServer"
             }
         ],
         "legend": {
@@ -794,30 +1438,16 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": true,
+            "enable": false,
             "open": true,
             "controls": [
                 "lock",
                 "delay"
             ],
             "params": {
-                "type": "wmst",
-                "delay": "3000",
-                "range": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                },
-                "limit": {
-                    "min": 1599062400000,
-                    "max": 1599321600000
-                }
-            },
-            "layers": [
-                {
-                    "id": "REPS.MEM.PRES_GZ.700.09***ce0eb0a4",
-                    "field": "TIME"
-                }
-            ]
+                "type": "number",
+                "delay": "3000"
+            }
         },
         "coordInfo": {
             "enable": false
@@ -874,13 +1504,63 @@
             ]
         },
         "thematicSlider": {
-            "enable": false,
+            "enable": true,
             "open": true,
-            "autorun": false,
+            "autorun": true,
             "loop": false,
             "description": true,
             "slider": true,
-            "stack": false
+            "stack": false,
+            "layers": [
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 1***b07f03fd",
+                    "title": "xSO4D Wet Deposition Maps 1981",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 6***05bde9ae",
+                    "title": "xSO4D Wet Deposition Maps 1986",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 10***ae484a14",
+                    "title": "xSO4D Wet Deposition Maps 1990",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 15***10c84c9d",
+                    "title": "xSO4D Wet Deposition Maps 1995",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 21***299e9795",
+                    "title": "xSO4D Wet Deposition Maps 2000",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 26***063205d3",
+                    "title": "xSO4D Wet Deposition Maps 2005",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 31***2f030805",
+                    "title": "xSO4D Wet Deposition Maps 2010",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                },
+                {
+                    "duration": 3000,
+                    "id": "Xs04 Wetlands 36***f3660f20",
+                    "title": "xSO4D Wet Deposition Maps 2015",
+                    "description": "Patterns of wet deposition of the nitrate/sulfate/ammonium ion across eastern Canada and the United States are based on measurements of precipitation depth and nitrate/sulfate/ammonium concentrations in precipitation samples. These measurements were collected and quality controlled by their respective networks: in Canada, the federal Canadian Air and Precipitation Monitoring Network (CAPMoN) and provincial or territorial networks in Alberta, New Brunswick, the Northwest Territories, Nova Scotia, Ontario and Quebec. In the United States, wet deposition measurements were made by two coordinated networks: the National Atmospheric Deposition Program (NADP) / National Trends Network (NTN) and the NADP/Atmospheric Integrated Research Monitoring Network (AIRMoN)."
+                }
+            ]
         }
     }
 }
