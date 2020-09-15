@@ -566,7 +566,7 @@
                 "layerChoice": "file",
                 "layerType": "esriFeature",
                 "fileType": "geojson",
-                "colour": "#ff0000",
+                "colour": "#db8307",
                 "tolerance": 5,
                 "outfields": "*",
                 "controls": [
@@ -785,7 +785,7 @@
             },
             "options": {
                 "colors": "",
-                "cutOut": 0
+                "cutOut": 20
             },
             "layers": [
                 {
@@ -801,7 +801,7 @@
                             "split": ";",
                             "prefix": "",
                             "suffix": "",
-                            "measure": "data1",
+                            "measure": "Data1",
                             "regex": " "
                         }
                     ],
