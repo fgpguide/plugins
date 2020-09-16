@@ -784,7 +784,7 @@
                 "split": ";"
             },
             "options": {
-                "colors": "#db0707;#1507db;#db0775"
+                "colors": "#db0707;#1507db;#fcfc03"
             },
             "axis": {
                 "xAxis": {
