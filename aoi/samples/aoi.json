@@ -561,7 +561,56 @@
                 }
             }
         ],
-        "layers": [],
+        "layers": [
+            {
+                "layerChoice": "esriFeature",
+                "layerType": "esriFeature",
+                "toggleSymbology": true,
+                "refreshInterval": 0,
+                "expectedResponseTime": 4000,
+                "tolerance": 5,
+                "outfields": "*",
+                "controls": [
+                    "opacity",
+                    "visibility",
+                    "boundingBox",
+                    "query",
+                    "snapshot",
+                    "metadata",
+                    "boundaryZoom",
+                    "refresh",
+                    "reload",
+                    "remove",
+                    "settings",
+                    "data",
+                    "styles"
+                ],
+                "disabledControls": [],
+                "enableStructuredDelete": false,
+                "state": {
+                    "opacity": 1,
+                    "visibility": true,
+                    "boundingBox": false,
+                    "query": true,
+                    "snapshot": false,
+                    "hovertips": true
+                },
+                "table": {
+                    "title": "",
+                    "maximize": false,
+                    "lazyFilter": false,
+                    "applyMap": false,
+                    "showFilter": true,
+                    "filterByExtent": false,
+                    "searchStrictMatch": false,
+                    "printEnabled": false,
+                    "columns": []
+                },
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/AboriginalMiningAgreements_en/MapServer/1",
+                "name": "Indigenous Mining Agreements (active)",
+                "id": "Indigenous Mining Agreements (active)***6d44e90c"
+            }
+        ],
         "legend": {
             "legendChoice": "autopopulate",
             "type": "autopopulate",
@@ -727,13 +776,34 @@
             "enable": true,
             "areas": [
                 {
-                    "xmin": -4844430,
-                    "ymin": -1052774,
-                    "xmax": 5666163,
-                    "ymax": 4170111,
+                    "xmin": 1050664.7028,
+                    "ymin": -606659.5715,
+                    "xmax": 1366048.6669,
+                    "ymax": -313897.3334,
                     "wkid": 3978,
-                    "title-en-CA": "Area 1",
-                    "title-fr-CA": "Aera 1"
+                    "title-en-CA": "Toronto",
+                    "title-fr-CA": "Toronto",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/custom_image.jpg"
+                },
+                {
+                    "xmin": 1431894.7708,
+                    "ymin": -215044.5868,
+                    "xmax": 1596995.101,
+                    "ymax": -125350.6575,
+                    "wkid": 3978,
+                    "title-en-CA": "Ottawa",
+                    "title-fr-CA": "Ottawa",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/point.jpg"
+                },
+                {
+                    "xmin": 507205.4404,
+                    "ymin": 421444.3661,
+                    "xmax": 611583.7741,
+                    "ymax": 527013.3272,
+                    "wkid": 3978,
+                    "title-en-CA": "Ring of Fire",
+                    "title-fr-CA": "Anneau de feu",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/Companies_Mining.jpg"
                 }
             ]
         },
