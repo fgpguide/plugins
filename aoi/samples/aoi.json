@@ -721,37 +721,19 @@
             }
         },
         "coordInfo": {
-            "enable": false
+            "enable": true
         },
         "AreasOfInterest": {
             "enable": true,
             "areas": [
                 {
-                    "xmin": 1050664.7028,
-                    "ymin": -606659.5715,
-                    "xmax": 1366048.6669,
-                    "ymax": -313897.3334,
+                    "xmin": -4844430,
+                    "ymin": -1052774,
+                    "xmax": 5666163,
+                    "ymax": 4170111,
                     "wkid": 3978,
-                    "title-en-CA": "A",
-                    "title-fr-CA": "A"
-                },
-                {
-                    "xmin": 1431894.7708,
-                    "ymin": -215044.5868,
-                    "xmax": 1596995.101,
-                    "ymax": -125350.6575,
-                    "wkid": 3978,
-                    "title-en-CA": "B",
-                    "title-fr-CA": "B"
-                },
-                {
-                    "xmin": -1096600.9112,
-                    "ymin": 452632.7902,
-                    "xmax": -593891.5724,
-                    "ymax": 882581.5667,
-                    "wkid": 3978,
-                    "title-en-CA": "C",
-                    "title-fr-CA": "C"
+                    "title-en-CA": "Area 1",
+                    "title-fr-CA": "Aera 1"
                 }
             ]
         },

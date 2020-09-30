@@ -19,13 +19,13 @@
 
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/fgpv/rv-styles.css" />
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/draw/draw.css" />
-    <script
-        src="https://github.com/fgpv-vpgf/fgpv-vpgf/tree/master/packages/ramp-plugin-areas-of-interest/areasOfInterest.js">
+    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/ramp-plugin-areas-of-interest.js">
     </script>
 </head>
 
 <body>
-    <div class="myMap" id="mapDraw" is="rv-map" rv-config="aoi.json" rv-langs='["en-CA", "fr-CA"]' rv-plugins="draw">
+    <div class="myMap" id="mapDraw" is="rv-map" rv-config="aoi.json" rv-langs='["en-CA", "fr-CA"]'
+        rv-plugins="areasOfInterest">
         <noscript>
             <p>
                 This interactive map requires JavaScript. To view this content please enable JavaScript in your
@@ -42,7 +42,7 @@
     <script
         src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
     </script>
-    <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main.js"></script>
+    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/rv-main.js"></script>
 </body>
 
 </html>
