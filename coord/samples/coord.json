@@ -563,11 +563,11 @@
         ],
         "layers": [
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriFeature",
+                "layerType": "esriFeature",
+                "toggleSymbology": true,
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
                 "controls": [
@@ -595,65 +595,31 @@
                     "snapshot": false,
                     "hovertips": true
                 },
-                "layerEntries": [
-                    {
-                        "outfields": "*",
-                        "stateOnly": false,
-                        "table": {
-                            "title": "",
-                            "maximize": false,
-                            "lazyFilter": false,
-                            "applyMap": false,
-                            "showFilter": true,
-                            "filterByExtent": false,
-                            "searchStrictMatch": false,
-                            "printEnabled": false,
-                            "columns": []
-                        },
-                        "controls": [
-                            "opacity",
-                            "visibility",
-                            "boundingBox",
-                            "query",
-                            "snapshot",
-                            "metadata",
-                            "boundaryZoom",
-                            "refresh",
-                            "reload",
-                            "remove",
-                            "settings",
-                            "data",
-                            "styles"
-                        ],
-                        "disabledControls": [],
-                        "state": {
-                            "opacity": 1,
-                            "visibility": true,
-                            "boundingBox": false,
-                            "query": true,
-                            "snapshot": false,
-                            "hovertips": true
-                        },
-                        "allStyles": [
-                            ""
-                        ],
-                        "init": true,
-                        "id": "1"
-                    }
-                ],
-                "url": "https://maps-cartes.services.geo.ca/server_serveur/services/NRCan/CanLaD_en/MapServer/WMSServer",
-                "name": "Year of the latest forest disturbance",
-                "id": "Year of the latest forest disturbance***6e327a8c",
-                "featureInfoMimeType": "text/html"
+                "table": {
+                    "title": "",
+                    "maximize": false,
+                    "lazyFilter": false,
+                    "applyMap": false,
+                    "showFilter": true,
+                    "filterByExtent": false,
+                    "searchStrictMatch": false,
+                    "printEnabled": false,
+                    "columns": []
+                },
+                "url": "https://webservices.maps.canada.ca/arcgis/rest/services/NRCan/AboriginalMiningAgreements_en/MapServer/1",
+                "name": "Indigenous Mining Agreements (active)",
+                "id": "Indigenous Mining Agreements (active)***6d44e90c"
             },
             {
-                "layerChoice": "ogcWms",
-                "layerType": "ogcWms",
+                "layerChoice": "esriDynamic",
+                "layerType": "esriDynamic",
+                "toggleSymbology": true,
                 "refreshInterval": 0,
                 "expectedResponseTime": 4000,
-                "suppressGetCapabilities": false,
                 "tolerance": 5,
                 "outfields": "*",
+                "imageFormat": "png32",
+                "singleEntryCollapse": false,
                 "controls": [
                     "opacity",
                     "visibility",
@@ -692,7 +658,16 @@
                             "filterByExtent": false,
                             "searchStrictMatch": false,
                             "printEnabled": false,
-                            "columns": []
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "searchable": true,
+                                    "filter": {
+                                        "value": "",
+                                        "static": false
+                                    }
+                                }
+                            ]
                         },
                         "controls": [
                             "opacity",
@@ -718,17 +693,13 @@
                             "snapshot": false,
                             "hovertips": true
                         },
-                        "allStyles": [
-                            ""
-                        ],
                         "init": true,
-                        "id": "0"
+                        "index": 0
                     }
                 ],
-                "name": "Type of the latest forest disturbance",
-                "id": "Type of the latest forest disturbance***51aeb699",
-                "url": "https://maps-cartes.services.geo.ca/server_serveur/services/NRCan/CanLaD_en/MapServer/WMSServer",
-                "featureInfoMimeType": "text/html"
+                "name": "2015 Land Cover of Canada",
+                "id": "2015 Land Cover of Canada***84e6b31f",
+                "url": "https://geoappext.nrcan.gc.ca/arcgis/rest/services/FGP/canada_landcover_2015_en/MapServer"
             }
         ],
         "legend": {
@@ -890,10 +861,42 @@
             }
         },
         "coordInfo": {
-            "enable": false
+            "enable": true
         },
         "AreasOfInterest": {
-            "enable": false
+            "enable": true,
+            "areas": [
+                {
+                    "xmin": 1050664.7028,
+                    "ymin": -606659.5715,
+                    "xmax": 1366048.6669,
+                    "ymax": -313897.3334,
+                    "wkid": 3978,
+                    "title-en-CA": "Toronto",
+                    "title-fr-CA": "Toronto",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/custom_image.jpg"
+                },
+                {
+                    "xmin": 1431894.7708,
+                    "ymin": -215044.5868,
+                    "xmax": 1596995.101,
+                    "ymax": -125350.6575,
+                    "wkid": 3978,
+                    "title-en-CA": "Ottawa",
+                    "title-fr-CA": "Ottawa",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/point.jpg"
+                },
+                {
+                    "xmin": 507205.4404,
+                    "ymin": 421444.3661,
+                    "xmax": 611583.7741,
+                    "ymax": 527013.3272,
+                    "wkid": 3978,
+                    "title-en-CA": "Ring of Fire",
+                    "title-fr-CA": "Anneau de feu",
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/Companies_Mining.jpg"
+                }
+            ]
         },
         "chart": {
             "enable": false,
