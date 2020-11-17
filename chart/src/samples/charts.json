@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMP",
+                "name": "IEMPL",
                 "id": "Graphics***94d984ea"
             }
         ],
@@ -778,7 +778,7 @@
         "chart": {
             "enable": true,
             "type": "bar",
-            "title": "Collected Results",
+            "title": "sample_type",
             "labelsPie": {
                 "type": "config",
                 "values": "",
@@ -790,7 +790,7 @@
             "axis": {
                 "xAxis": {
                     "title": "Parameter",
-                    "type": "config",
+                    "type": "field",
                     "values": "parameter_summary",
                     "split": ";"
                 },
@@ -806,9 +806,9 @@
                     "id": "Graphics***94d984ea",
                     "data": [
                         {
-                            "type": "combine",
+                            "type": "single",
                             "label": {
-                                "type": "config",
+                                "type": "field",
                                 "values": "",
                                 "split": ";"
                             },
