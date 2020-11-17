@@ -776,32 +776,55 @@
             "enable": false
         },
         "chart": {
-            "enable": false,
-            "type": "pie",
-            "title": "",
+            "enable": true,
+            "type": "bar",
+            "title": "sample_type",
             "labelsPie": {
                 "type": "config",
                 "values": "",
                 "split": ";"
             },
             "options": {
-                "colors": "",
-                "cutOut": 0
+                "colors": "#db0707;#1507db;#fcfc03"
             },
             "axis": {
                 "xAxis": {
-                    "title": "",
-                    "type": "config",
-                    "values": "",
+                    "title": "Parameter",
+                    "type": "field",
+                    "values": "parameter_summary",
                     "split": ";"
                 },
                 "yAxis": {
-                    "title": "",
-                    "type": "config",
+                    "title": "Results",
+                    "type": "linear",
                     "values": "",
                     "split": ";"
                 }
-            }
+            },
+            "layers": [
+                {
+                    "id": "IEMP***00f449d0",
+                    "data": [
+                        {
+                            "type": "single",
+                            "label": {
+                                "type": "field",
+                                "values": "year_summary",
+                                "split": ";"
+                            },
+                            "split": ";",
+                            "prefix": "Year:",
+                            "suffix": "",
+                            "measure": "result_summary ",
+                            "regex": "\\[|\\];\\[|\\]"
+                        }
+                    ],
+                    "details": {
+                        "enabled": false,
+                        "value": "Sample Code: "
+                    }
+                }
+            ]
         },
         "swiper": {
             "enable": false,
