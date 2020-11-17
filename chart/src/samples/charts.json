@@ -606,9 +606,9 @@
                     "printEnabled": false,
                     "columns": []
                 },
+                "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
                 "name": "IEMP",
-                "id": "IEMP***00f449d0",
-                "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0"
+                "id": "Graphics***94d984ea"
             }
         ],
         "legend": {
@@ -778,7 +778,7 @@
         "chart": {
             "enable": true,
             "type": "bar",
-            "title": "sample_type",
+            "title": "Collected Results",
             "labelsPie": {
                 "type": "config",
                 "values": "",
@@ -791,7 +791,7 @@
                 "xAxis": {
                     "title": "Parameter",
                     "type": "field",
-                    "values": "parameter_summary",
+                    "values": "parameter",
                     "split": ";"
                 },
                 "yAxis": {
@@ -803,25 +803,25 @@
             },
             "layers": [
                 {
-                    "id": "IEMP***00f449d0",
+                    "id": "Graphics***94d984ea",
                     "data": [
                         {
                             "type": "single",
                             "label": {
                                 "type": "field",
-                                "values": "year_summary",
+                                "values": "year",
                                 "split": ";"
                             },
                             "split": ";",
                             "prefix": "Year:",
                             "suffix": "",
-                            "measure": "result_summary",
+                            "measure": "result",
                             "regex": "\\[|\\];\\[|\\]"
                         }
                     ],
                     "details": {
-                        "enabled": true,
-                        "value": "Sample Code: "
+                        "enabled": false,
+                        "value": "Sample Code: {{sample_cod}}<br>Years:{{field1.name[1]}}"
                     }
                 }
             ]
