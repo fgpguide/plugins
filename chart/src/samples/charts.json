@@ -806,9 +806,9 @@
                     "id": "Graphics***94d984ea",
                     "data": [
                         {
-                            "type": "single",
+                            "type": "combine",
                             "label": {
-                                "type": "combine",
+                                "type": "config",
                                 "values": "",
                                 "split": ";"
                             },
@@ -821,7 +821,7 @@
                     ],
                     "details": {
                         "enabled": true,
-                        "value": "Sample Code: sample_cod"
+                        "value": "Sample Code: {sample_cod},{{result_summary}}"
                     }
                 }
             ]
