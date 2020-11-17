@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMPS",
+                "name": "IEMP",
                 "id": "Graphics***94d984ea"
             }
         ],
@@ -820,8 +820,8 @@
                         }
                     ],
                     "details": {
-                        "enabled": false,
-                        "value": "Sample Code: {{sample_cod}}<br>Years:{{field1.name[1]}}"
+                        "enabled": true,
+                        "value": "Sample Code: {{sample_cod}}<br>Years:{{years_summary}}"
                     }
                 }
             ]
