@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMP",
+                "name": "IEMPZ",
                 "id": "Graphics***94d984ea"
             }
         ],
@@ -790,7 +790,7 @@
             "axis": {
                 "xAxis": {
                     "title": "Parameter",
-                    "type": "field",
+                    "type": "config",
                     "values": "parameter_summary",
                     "split": ";"
                 },
@@ -808,7 +808,7 @@
                         {
                             "type": "single",
                             "label": {
-                                "type": "field",
+                                "type": "config",
                                 "values": "year_summary",
                                 "split": ";"
                             },
@@ -821,7 +821,7 @@
                     ],
                     "details": {
                         "enabled": true,
-                        "value": "Sample Code: {{sample_cod}}<br>Years:{{years_summary}}"
+                        "value": "Sample Code: sample_cod<br>Years:years_summary"
                     }
                 }
             ]
