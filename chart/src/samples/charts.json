@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMP",
+                "name": "IEMPS",
                 "id": "Graphics***94d984ea"
             }
         ],
@@ -791,7 +791,7 @@
                 "xAxis": {
                     "title": "Parameter",
                     "type": "field",
-                    "values": "parameter",
+                    "values": "parameter_summary",
                     "split": ";"
                 },
                 "yAxis": {
@@ -809,13 +809,13 @@
                             "type": "single",
                             "label": {
                                 "type": "field",
-                                "values": "year",
+                                "values": "year_summary",
                                 "split": ";"
                             },
                             "split": ";",
                             "prefix": "Year:",
                             "suffix": "",
-                            "measure": "result",
+                            "measure": "result_summary",
                             "regex": "\\[|\\];\\[|\\]"
                         }
                     ],
