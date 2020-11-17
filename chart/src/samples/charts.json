@@ -815,7 +815,7 @@
                             "split": ";",
                             "prefix": "Year:",
                             "suffix": "",
-                            "measure": "result_summary ",
+                            "measure": "result_summary",
                             "regex": "\\[|\\];\\[|\\]"
                         }
                     ],
