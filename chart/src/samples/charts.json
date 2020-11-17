@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMPL",
+                "name": "IEMPC",
                 "id": "Graphics***94d984ea"
             }
         ],
