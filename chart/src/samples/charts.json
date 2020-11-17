@@ -820,7 +820,7 @@
                         }
                     ],
                     "details": {
-                        "enabled": false,
+                        "enabled": true,
                         "value": "Sample Code: "
                     }
                 }
