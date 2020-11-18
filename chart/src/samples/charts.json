@@ -607,7 +607,7 @@
                     "columns": []
                 },
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Test/IEMP/MapServer/0",
-                "name": "IEMPC",
+                "name": "IEMJ",
                 "id": "Graphics***94d984ea"
             }
         ],
@@ -785,7 +785,7 @@
                 "split": ";"
             },
             "options": {
-                "colors": "#db0707;#1507db;#fcfc03"
+                "colors": ""
             },
             "axis": {
                 "xAxis": {
@@ -816,7 +816,7 @@
                             "prefix": "Year:",
                             "suffix": "",
                             "measure": "result_summary",
-                            "regex": "\\[|\\];\\[|\\]"
+                            "regex": ""
                         }
                     ],
                     "details": {
