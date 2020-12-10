@@ -617,7 +617,7 @@
                     "snapshot": false,
                     "hovertips": true
                 },
-                "url": "https://maps-stage.services.geo.ca/imagery_images/rest/services/NRCAN/CanLad3/ImageServer",
+                "url": "https://maps-stage.services.geo.ca/imagery_images/rest/services/NRCAN/CanLad2/ImageServer",
                 "name": "CanLad Disturbance 2017 (Type)",
                 "id": "CanLad Disturbance 2017 (Type)***64ae2492"
             }
