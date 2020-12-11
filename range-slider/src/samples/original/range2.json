@@ -769,7 +769,10 @@
             "open": true,
             "controls": [
                 "lock",
-                "delay"
+                "loop",
+                "delay",
+                "export",
+                "refresh"
             ],
             "params": {
                 "type": "date",
