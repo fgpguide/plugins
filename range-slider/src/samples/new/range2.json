@@ -769,12 +769,15 @@
             "open": true,
             "controls": [
                 "lock",
-                "delay"
+                "loop",
+                "delay",
+                "export",
+                "refresh"
             ],
             "params": {
                 "type": "date",
                 "delay": "3000",
-                "rangeType": "dual",
+                "rangeType": "single",
                 "stepType": "static",
                 "precision": "date",
                 "range": {
