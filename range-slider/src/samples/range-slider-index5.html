@@ -20,22 +20,17 @@
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/fgpv/rv-styles.css" />
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.css" />
     <script src="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.js"></script>
-    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/ramp-plugin-areas-of-interest.js"></script>
 </head>
 
 <body>
     <section id="header">
         <div class="row">
             <select id="selectConfig" class="tool">
-                <option value="new1/range1.json">01.Dual Anchors</option>
-                <option value="new1/range2.json">02.Single Anchor</option>
-                <option value="new1/range3.json">03.Every Three Years</option>
-                <option value="new1/range4.json">04.Every Five Years</option>
-                <option value="new1/range5.json">05.Every Ten Years</option>
+                <option value="test.json">01.Testing</option>
             </select>
         </div>
     </section>
-    <div class="myMap" id="mapSlider" is="rv-map" rv-config="range1.json" rv-langs='["en-CA", "fr-CA"]'
+    <div class="myMap" id="mapSlider" is="rv-map" rv-config="test.json" rv-langs='["en-CA", "fr-CA"]'
         rv-plugins="rangeSlider,AreasOfInterest">
         <noscript>
             <p>
@@ -102,7 +97,6 @@
         src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
     </script>
     <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main.js"></script>
-    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/rv-main.js"></script>
 </body>
 
 </html>
