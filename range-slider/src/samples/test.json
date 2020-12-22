@@ -638,13 +638,13 @@
                             ""
                         ],
                         "init": true,
-                        "id": "salish",
+                        "id": "top-layer",
                         "name": "Data over Salish region"
                     }
                 ],
                 "name": "NAPL",
                 "id": "NAPL***9f23e37a",
-                "url": "https://datacube-stage.services.geo.ca/ows/aerial",
+                "url": "https://datacube-stage.services.geo.ca/ows/canlad",
                 "featureInfoMimeType": "text/plain"
             }
         ],
