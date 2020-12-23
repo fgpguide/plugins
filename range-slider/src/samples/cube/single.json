@@ -803,8 +803,8 @@
             "params": {
                 "type": "wmst",
                 "delay": "3000",
-                "rangeType": "dual",
-                "stepType": "dynamic",
+                "rangeType": "single",
+                "stepType": "static",
                 "precision": "date",
                 "range": {
                     "min": 1277956800000,
