@@ -38,10 +38,10 @@
             {
                 "id": "EXT_NRCAN_Lambert_3978",
                 "default": {
-                    "xmin": -2019699.86,
-                    "ymin": 462080.38,
-                    "xmax": -1915611.30,
-                    "ymax": 466180.52
+                    "xmin": -4844430.556896179,
+                    "ymin": -1052774.037634491,
+                    "xmax": 5666163.380958509,
+                    "ymax": 4170111.408136484
                 },
                 "full": {
                     "xmax": 5666163.380958509,
@@ -638,11 +638,11 @@
                             ""
                         ],
                         "init": true,
-                        "id": "top-layer",
-                        "name": "Data over Salish region"
+                        "id": "canlad",
+                        "name": "CanLad"
                     }
                 ],
-                "name": "NAPL",
+                "name": "CadLad",
                 "id": "NAPL***9f23e37a",
                 "url": "https://datacube-stage.services.geo.ca/ows/canlad",
                 "featureInfoMimeType": "text/plain"
@@ -795,7 +795,7 @@
     "language": "en-CA",
     "plugins": {
         "rangeSlider": {
-            "enable": false,
+            "enable": true,
             "open": true,
             "controls": [
                 "lock"
@@ -803,22 +803,17 @@
             "params": {
                 "type": "wmst",
                 "delay": "3000",
-                "rangeType": "single",
-                "stepType": "static",
+                "rangeType": "dual",
+                "stepType": "dynamic",
                 "precision": "date",
                 "range": {
-                    "min": -631134000000,
-                    "max": 0
+                    "min": 1277956800000,
+                    "max": 1435723200000
                 },
                 "limit": {
-                    "min": -631134000000,
-                    "max": 378709200000,
-                    "staticItems": [
-                        -347137200000,
-                        -94676400000,
-                        63090000000,
-                        252478800000
-                    ]
+                    "min": 1277956800000,
+                    "max": 1435723200000,
+                    "staticItems": []
                 }
             },
             "autorun": false,
@@ -826,7 +821,7 @@
             "layers": [
                 {
                     "id": "NAPL***9f23e37a",
-                    "field": "DATE"
+                    "field": "Time"
                 }
             ]
         },
