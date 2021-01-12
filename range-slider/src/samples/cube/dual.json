@@ -836,10 +836,18 @@
                         1372651200000,
                         1404187200000
                     ]
-                }
+                },
+                "units": "",
+                "description": ""
             },
             "autorun": false,
-            "loop": false
+            "loop": false,
+            "layers": [
+                {
+                    "id": "CanLad***564e5b19",
+                    "field": "Time"
+                }
+            ]
         },
         "coordInfo": {
             "enable": false
