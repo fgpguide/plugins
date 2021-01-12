@@ -384,6 +384,29 @@
                 }
             },
             {
+                "id": "2a30f9b6",
+                "name": "Shaded relief",
+                "description": "This Canadian base map provides geographic context using shaded relief. From Natural Resources Canada.",
+                "altText": "Shaded relief",
+                "layers": [
+                    {
+                        "id": "CBME_CBCE_HS_RO_3978",
+                        "layerType": "esriFeature",
+                        "url": "https://geoappext.nrcan.gc.ca/arcgis/rest/services/BaseMaps/CBME_CBCE_HS_RO_3978/MapServer",
+                        "opacity": 1
+                    }
+                ],
+                "tileSchemaId": "cad53536",
+                "attribution": {
+                    "text": {
+                        "enabled": true
+                    },
+                    "logo": {
+                        "enabled": false
+                    }
+                }
+            },
+            {
                 "id": "18e13bfd",
                 "name": "Transport with labels",
                 "description": "This worldwide basemap provides geographic context with bilingual labels and an emphasis on transportation networks. From Natural Resources Canada.",
@@ -638,14 +661,12 @@
                             ""
                         ],
                         "init": true,
-                        "id": "canlad",
-                        "name": "CanLad"
+                        "id": "canlad"
                     }
                 ],
-                "name": "CadLad",
-                "id": "NAPL***9f23e37a",
-                "url": "https://datacube-stage.services.geo.ca/ows/canlad",
-                "featureInfoMimeType": "text/plain"
+                "name": "CanLad",
+                "id": "CanLad***564e5b19",
+                "url": "https://datacube-stage.services.geo.ca/ows/canlad"
             }
         ],
         "legend": {
@@ -669,11 +690,7 @@
                     "export",
                     "share",
                     "touch",
-                    "help",
-                    "about"
-                ],
-                [
-                    "language"
+                    "help"
                 ],
                 [
                     "plugins"
@@ -716,9 +733,9 @@
             "reorderable": true,
             "allowImport": true,
             "isOpen": {
-                "large": false,
+                "large": true,
                 "medium": false,
-                "small": true
+                "small": false
             }
         },
         "tableIsOpen": {
@@ -804,7 +821,7 @@
                 "type": "wmst",
                 "delay": "3000",
                 "rangeType": "dual",
-                "stepType": "dynamic",
+                "stepType": "static",
                 "precision": "date",
                 "range": {
                     "min": 1277956800000,
@@ -813,17 +830,16 @@
                 "limit": {
                     "min": 1277956800000,
                     "max": 1435723200000,
-                    "staticItems": []
+                    "staticItems": [
+                        1309492800000,
+                        1341115200000,
+                        1372651200000,
+                        1404187200000
+                    ]
                 }
             },
             "autorun": false,
-            "loop": false,
-            "layers": [
-                {
-                    "id": "NAPL***9f23e37a",
-                    "field": "Time"
-                }
-            ]
+            "loop": false
         },
         "coordInfo": {
             "enable": false
