@@ -817,7 +817,6 @@
             "controls": [
                 "lock",
                 "refresh",
-                "export",
                 "delay"
             ],
             "params": {
