@@ -815,7 +815,10 @@
             "enable": true,
             "open": true,
             "controls": [
-                "lock"
+                "lock",
+                "refresh",
+                "export",
+                "delay"
             ],
             "params": {
                 "type": "wmst",
