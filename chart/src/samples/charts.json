@@ -273,7 +273,7 @@
             "layers": [
                 {
                     "id": "0",
-                    "nameField": "FID",
+                    "nameField": "sample_cod",
                     "data": [
                         {
                             "type": "single",
