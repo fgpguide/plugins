@@ -26,11 +26,12 @@
     <section id="header">
         <div class="row">
             <select id="selectConfig" class="tool">
-                <option value="chart2.json">01. PieChart</option>
+                <option value="charts.json">01. BarChart</option>
+                
             </select>
         </div>
     </section>
-    <div class="myMap" id="mapChart" is="rv-map" rv-config="chart1.json" rv-langs='["en-CA", "fr-CA"]'
+    <div class="myMap" id="mapChart" is="rv-map" rv-config="chart2.json" rv-langs='["en-CA", "fr-CA"]'
         rv-plugins="chart">
         <noscript>
             <p>
@@ -45,7 +46,7 @@
             </p>
         </noscript>
     </div>
-
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
     <script>
         var SAMPLE_KEY = 'sample';
         var currentUrl = new URL(window.location.href);
@@ -94,7 +95,7 @@
     <script
         src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
     </script>
-    <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main3.3.1.js"></script>
+    <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main.js"></script>
 </body>
 
 </html>
