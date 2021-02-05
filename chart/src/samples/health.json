@@ -291,7 +291,7 @@
                             "date": "Date",
                             "label": {
                                 "type": "config",
-                                "values": "FC MPN",
+                                "values": "Test",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
