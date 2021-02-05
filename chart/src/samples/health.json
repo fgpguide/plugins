@@ -277,7 +277,7 @@
             "layers": [
                 {
                     "id": "0",
-                    "nameField": "Location_Emplacement",
+                    "nameField": "Location",
                     "type": "link",
                     "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Airborne_Radioactivity/MapServer/1",
                     "linkField": "Location",
