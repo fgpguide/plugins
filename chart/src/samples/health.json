@@ -297,6 +297,22 @@
                             "split": ",",
                             "prefix": "",
                             "suffix": ""
+                        },
+                        {
+                            "type": "combine",
+                            "linkType": "multi",
+                            "link": "Location",
+                            "measure": "Be7_Activity",
+                            "date": "Collection_Start",
+                            "label": {
+                                "type": "config",
+                                "values": "Pb10",
+                                "split": ""
+                            },
+                            "regex": "\\(|\\),\\(|\\)",
+                            "split": ",",
+                            "prefix": "",
+                            "suffix": ""
                         }
                     ],
                     "details": {
