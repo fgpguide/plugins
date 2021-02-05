@@ -287,7 +287,7 @@
                             "linkType": "single",
                             "link": "Location",
                             "measure": "Be7_Activity",
-                            "date": "Date",
+                            "date": "Collection_Start",
                             "label": {
                                 "type": "config",
                                 "values": "Be7",
