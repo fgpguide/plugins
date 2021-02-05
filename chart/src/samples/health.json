@@ -96,8 +96,7 @@
                 "url": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Airborne_Radioactivity/MapServer",
                 "layerEntries": [
                     {
-                        "index": 0,
-                        "name": "Points"
+                        "index": 0
                     }
                 ]
             }
@@ -280,24 +279,24 @@
                     "id": "0",
                     "nameField": "Site",
                     "type": "link",
-                    "linkUrl": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/Shellfish_Sites_Samples_Mollusques_Echantillons/MapServer/9",
-                    "linkField": "Site",
+                    "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Airborne_Radioactivity/MapServer/1",
+                    "linkField": "Location",
                     "data": [
                         {
                             "type": "combine",
                             "linkType": "single",
-                            "link": "Site",
-                            "measure": "FC_MPN_CF_NPP_100_mL",
+                            "link": "Location",
+                            "measure": "Be7_Activity",
                             "date": "Date",
                             "label": {
                                 "type": "config",
-                                "values": "FC MPN",
+                                "values": "Be7",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
                             "split": ",",
-                            "prefix": "Concentration",
-                            "suffix": "by 100 / ml"
+                            "prefix": "Parameters",
+                            "suffix": ""
                         }
                     ],
                     "details": {
