@@ -285,7 +285,7 @@
                         {
                             "type": "combine",
                             "linkType": "single",
-                            "link": "Location",
+                            "link": "Location_Emplacement",
                             "measure": "Be7_Activity",
                             "date": "Date",
                             "label": {
