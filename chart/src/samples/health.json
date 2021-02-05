@@ -284,13 +284,13 @@
                     "data": [
                         {
                             "type": "combine",
-                            "linkType": "single",
+                            "linkType": "multi",
                             "link": "Location",
                             "measure": "Be7_Activity",
                             "date": "Collection_Start",
                             "label": {
                                 "type": "config",
-                                "values": "Be7",
+                                "values": "",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
@@ -300,13 +300,13 @@
                         },
                         {
                             "type": "combine",
-                            "linkType": "single",
+                            "linkType": "multi",
                             "link": "Location",
-                            "measure": "Be7_Activity",
+                            "measure": "Pb210_Activity",
                             "date": "Collection_Start",
                             "label": {
                                 "type": "config",
-                                "values": "Pb10",
+                                "values": "",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
