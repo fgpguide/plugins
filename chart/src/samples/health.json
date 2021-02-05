@@ -255,7 +255,7 @@
     "plugins": {
         "chart": {
             "type": "line",
-            "title": "Shellfish Sites",
+            "title": "Location",
             "axis": {
                 "xAxis": {
                     "type": "date",
@@ -293,9 +293,27 @@
                                 "values": "Be7",
                                 "split": ""
                             },
+                            
                             "regex": "\\(|\\),\\(|\\)",
                             "split": ",",
-                            "prefix": "Parameters",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        {
+                            "type": "combine",
+                            "linkType": "single",
+                            "link": "Location",
+                            "measure": "Pb210_Activity",
+                            "date": "Collection_Start",
+                            "label": {
+                                "type": "config",
+                                "values": "Pb210",
+                                "split": ""
+                            },
+                            
+                            "regex": "\\(|\\),\\(|\\)",
+                            "split": ",",
+                            "prefix": "",
                             "suffix": ""
                         }
                     ],
