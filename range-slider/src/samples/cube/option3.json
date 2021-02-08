@@ -854,13 +854,13 @@
             ],
             "params": {
                 "type": "wmst",
-                "delay": "3000",
+                "delay": "5000",
                 "rangeType": "dual",
                 "stepType": "static",
                 "precision": "date",
                 "range": {
-                    "min": 804600000000,
-                    "max": 1120219200000
+                    "min": 489067200000,
+                    "max": 552139200000
                 },
                 "limit": {
                     "min": 489067200000,
@@ -900,7 +900,7 @@
                 "units": "",
                 "description": ""
             },
-            "autorun": false,
+            "autorun": true,
             "loop": false,
             "layers": [
                 {
