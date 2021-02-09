@@ -290,7 +290,7 @@
                             "date": "Collection_Start",
                             "label": {
                                 "type": "config",
-                                "values": "",
+                                "values": "Be7",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
