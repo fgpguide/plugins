@@ -91,13 +91,12 @@
         "layers": [
             {
                 "id": "0",
-                "name": "Water Quality",
+                "name": "Airborne Radioactivity",
                 "layerType": "esriDynamic",
-                "url": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/Shellfish_Sites_Samples_Mollusques_Echantillons/MapServer/",
+                "url": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Airborne_Radioactivity/MapServer",
                 "layerEntries": [
                     {
-                        "index": 1,
-                        "name": "Points"
+                        "index": 0
                     }
                 ]
             }
@@ -256,7 +255,7 @@
     "plugins": {
         "chart": {
             "type": "line",
-            "title": "Shellfish Sites",
+            "title": "Location",
             "axis": {
                 "xAxis": {
                     "type": "date",
@@ -278,42 +277,26 @@
             "layers": [
                 {
                     "id": "0",
-                    "nameField": "Site",
+                    "nameField": "Location",
                     "type": "link",
-                    "linkUrl": "https://maps-cartes.ec.gc.ca/arcgis/rest/services/Shellfish_Sites_Samples_Mollusques_Echantillons/MapServer/9",
-                    "linkField": "Site",
+                    "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Airborne_Radioactivity/MapServer/1",
+                    "linkField": "Location",
                     "data": [
                         {
                             "type": "combine",
                             "linkType": "single",
-                            "link": "Site",
-                            "measure": "FC_MPN_CF_NPP_100_mL",
-                            "date": "Date",
+                            "link": "Location",
+                            "measure": "Be7_Activity",
+                            "date": "Collection_Start",
                             "label": {
                                 "type": "config",
-                                "values": "Test",
+                                "values": "",
                                 "split": ""
                             },
                             "regex": "\\(|\\),\\(|\\)",
                             "split": ",",
-                            "prefix": "Concentration",
-                            "suffix": "by 100 / ml"
-                        },
-                        {
-                            "type": "combine",
-                            "linkType": "single",
-                            "link": "Site",
-                            "measure": "Temp_C",
-                            "date": "Date",
-                            "label": {
-                                "type": "config",
-                                "values": "Temp",
-                                "split": ""
-                            },
-                            "regex": "\\(|\\),\\(|\\)",
-                            "split": ",",
-                            "prefix": "Concentration",
-                            "suffix": "by 100 / ml"
+                            "prefix": "",
+                            "suffix": ""
                         }
                     ],
                     "details": {
