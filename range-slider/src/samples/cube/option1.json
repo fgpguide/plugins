@@ -913,7 +913,7 @@
             "enable": false
         },
         "areasOfInterest": {
-            "enable": false
+            "enable": true
         },
         "chart": {
             "enable": false,
