@@ -699,7 +699,7 @@
                         ],
                         "symbologyStack": [
                             {
-                                "image": "https://datacube.services.geo.ca/canada-icon.png",
+                                "image": "https://maps-cartes.services.geo.ca:443/server_serveur/services/NRCan/CanLaD_en/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=0",
                                 "text": "Type of the latest forest disturbance"
                             }
                         ],
@@ -854,13 +854,13 @@
             ],
             "params": {
                 "type": "wmst",
-                "delay": "5000",
+                "delay": "7000",
                 "rangeType": "dual",
-                "stepType": "static",
+                "stepType": "dynamic",
                 "precision": "date",
                 "range": {
                     "min": 489067200000,
-                    "max": 552139200000
+                    "max": 646833600000
                 },
                 "limit": {
                     "min": 489067200000,
