@@ -20,20 +20,21 @@
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/fgpv/rv-styles.css" />
     <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.css" />
     <script src="https://jolevesq.github.io/contributed-plugins/range-slider/range-slider.js"></script>
-    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/ramp-plugin-areas-of-interest.js"></script>
 </head>
 
 <body>
     <section id="header">
         <div class="row">
             <select id="selectConfig" class="tool">
-                <option value="cube/option1.json">01.Option9</option>
-               
+                <option value="cube/option1.json">01.Option1</option>
+                <option value="cube/option2.json">02.Option2</option>
+                <option value="cube/option3.json">03.Option3</option>
+                <option value="cube/option4.json">04.Option4</option>
             </select>
         </div>
     </section>
     <div class="myMap" id="mapSlider" is="rv-map" rv-config="test.json" rv-langs='["en-CA", "fr-CA"]'
-        rv-plugins="AreasOfInterest">
+        rv-plugins="rangeSlider,AreasOfInterest">
         <noscript>
             <p>
                 This interactive map requires JavaScript. To view this content please enable JavaScript in your
@@ -98,7 +99,7 @@
     <script
         src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
     </script>
-    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/rv-main.js"></script>
+    <script src="https://jolevesq.github.io/contributed-plugins/fgpv/rv-main3.2.js"></script>
 </body>
 
 </html>
