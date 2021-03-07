@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": 777,
+            "id": 77,
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -87,8 +87,8 @@
                 ]
             },
             "properties": {
-                "FID": 777,
-                "sample_cod": "test",
+                "FID": 77,
+                "sample_cod": "BP07-F04",
                 "longitude": -85,
                 "latitude": 47,
                 "year": "2013;2015;2016",
