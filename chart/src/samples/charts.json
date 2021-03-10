@@ -255,13 +255,13 @@
             "axis": {
                 "xAxis": {
                     "type": "field",
-                    "title": "Parameter",
+                    "title": "paramètre",
                     "values": "parameter",
                     "split": ";"
                 },
                 "yAxis": {
                     "type": "linear",
-                    "title": "Results",
+                    "title": "résultats",
                     "values": "",
                     "split": ";"
                 }
