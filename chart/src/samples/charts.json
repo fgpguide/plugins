@@ -251,17 +251,17 @@
     "plugins": {
         "chart": {
             "type": "bar",
-            "title": "résultats",
+            "title": "Results",
             "axis": {
                 "xAxis": {
                     "type": "field",
-                    "title": "paramètre",
+                    "title": "Parameter",
                     "values": "parameter",
                     "split": ";"
                 },
                 "yAxis": {
                     "type": "linear",
-                    "title": "résultats",
+                    "title": "Results",
                     "values": "",
                     "split": ";"
                 }
