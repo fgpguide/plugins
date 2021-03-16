@@ -259,7 +259,7 @@
       "title": "Water Quality",
       "axis": {
         "xAxis": {
-          "type": "date",
+          "type": "linear",
           "title": "Dates",
           "values": "",
           "split": ""
