@@ -259,14 +259,14 @@
       "title": "Water Quality",
       "axis": {
         "xAxis": {
-          "type": "linear",
+          "type": "date",
           "title": "Dates",
           "values": "",
           "split": ""
         },
         "yAxis": {
           "type": "linear",
-          "title": "MG / L",
+          "title": "Result",
           "values": "",
           "split": ""
         }
@@ -289,7 +289,7 @@
               "link": "sample_cod",
               "measure": "result",
               "values": "parameter",
-              "date": "year",
+              "date": "Dates",
               "label": {
                 "type": "config",
                 "values": "",
