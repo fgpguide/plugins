@@ -93,7 +93,7 @@
         "id": "0",
         "name": "Water Quality",
         "layerType": "esriDynamic",
-        "url": "https://160.106.129.218:6443/arcgis/rest/services/Chart/IEMP_test/MapServer",
+        "url": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Water_Quality_Test2/MapServer",
         "layerEntries": [
           {
             "index": 0,
@@ -280,15 +280,15 @@
           "id": "0",
           "nameField": "Site_number",
           "type": "link",
-          "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/IEMP_test/MapServer/1",
+          "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/Water_Quality_Test2/MapServer/1",
           "linkField": "Site_number",
           "data": [
             {
               "type": "combine",
               "linkType": "multi",
               "link": "Site_number",
-              "measure": "RESULT",
-              "values": "PARAMETER",
+              "measure": "VALUE_VALEUR",
+              "values": "VARIABLE_NAME",
               "date": "DATE",
               "label": {
                 "type": "config",
