@@ -278,15 +278,15 @@
       "layers": [
         {
           "id": "0",
-          "nameField": "sample_cod",
+          "nameField": "Site_number",
           "type": "link",
           "linkUrl": "https://160.106.129.218:6443/arcgis/rest/services/Chart/IEMP_test/MapServer/1",
-          "linkField": "sample_cod",
+          "linkField": "Site_number",
           "data": [
             {
               "type": "combine",
               "linkType": "multi",
-              "link": "sample_cod",
+              "link": "Site_number",
               "measure": "RESULT",
               "values": "PARAMETER",
               "date": "DATE",
