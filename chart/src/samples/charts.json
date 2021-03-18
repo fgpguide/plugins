@@ -251,7 +251,7 @@
     "plugins": {
         "chart": {
             "type": "bar",
-            "title": "Results",
+            "title": "Collected Results",
             "axis": {
                 "xAxis": {
                     "type": "field",
