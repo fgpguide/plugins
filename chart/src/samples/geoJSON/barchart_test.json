@@ -92,7 +92,7 @@
                 "longitude": -85,
                 "latitude": 47,
                 "year": "2013;2015;2016",
-                "parameter": "Cesium-137;Organically Bound Tritium;Tritiated Water;Cobalt-60",
+                "parameter": "Cesium-137(Bq/m3);Organically Bound Tritium(Bq/kg);Tritiated Water(Bq/m3);Cobalt-60(Bq/L)",
                 "result": "[1.2;2;5.6;7.2];[0.8;1.5;12.3;1];[5.5;2.7;2.9;7.1]",
                 "sample_typ": "Foodstuffs",
                 "facility": "Bruce A and B Nuclear Generating Stations",
