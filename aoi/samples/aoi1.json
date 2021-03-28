@@ -866,26 +866,7 @@
         "AreasOfInterest": {
             "enable": true,
             "areas": [
-                {
-                    "xmin": 1050664.7028,
-                    "ymin": -606659.5715,
-                    "xmax": 1366048.6669,
-                    "ymax": -313897.3334,
-                    "wkid": 3978,
-                    "title-en-CA": "Toronto",
-                    "title-fr-CA": "Toronto",
-                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/canadaflag.jpg"
-                },
-                {
-                    "xmin": 1431894.7708,
-                    "ymin": -215044.5868,
-                    "xmax": 1596995.101,
-                    "ymax": -125350.6575,
-                    "wkid": 3978,
-                    "title-en-CA": "Ottawa",
-                    "title-fr-CA": "Ottawa",
-                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/canadaflag.jpg"
-                },
+                
                 {
                     "xmin": 507205.4404,
                     "ymin": 421444.3661,
@@ -894,7 +875,7 @@
                     "wkid": 3978,
                     "title-en-CA": "Ring of Fire",
                     "title-fr-CA": "Anneau de feu",
-                    "thumbnailUrl": ""
+                    "thumbnailUrl": "https://negice.github.io/usecase/aoi/canadaflag.jpg"
                 }
             ]
         },
