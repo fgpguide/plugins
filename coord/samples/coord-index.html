@@ -2,48 +2,57 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width,initial-scale=1" name="viewport" />
-    <title>Plugin: Coord Info</title>
+        <meta charset="utf-8" />
+        <meta content="width=device-width,initial-scale=1" name="viewport" />
+        <title>Plugin: Coordinate info</title>
 
-    <style>
-        body {
-            display: flex;
-            flex-direction: column;
-        }
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+            }
 
-        .myMap {
-            height: 100%;
-        }
-    </style>
+            .myMap {
+                height: 100%;
+            }
+        </style>
 
-    <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/fgpv/rv-styles.css" />
-    <link rel="stylesheet" href="https://jolevesq.github.io/contributed-plugins/draw/draw.css" />
-    <script src="https://dev.gcgeo.gc.ca/fgpv/fgpv-3.3.0/ramp-plugin-coordinate-info.js"></script>
-</head>
+        
+        
+            <link rel="stylesheet" href="http://fgpv-app.azureedge.net/demo/tags/v3.3.1/dist/rv-styles.css" />
+        
+    
+    </head>
 
 <body>
-    <div class="myMap" id="mapDraw" is="rv-map" rv-config="coord.json" rv-langs='["en-CA", "fr-CA"]'
-        rv-plugins="coordInfo">
-        <noscript>
-            <p>
-                This interactive map requires JavaScript. To view this content please enable JavaScript in your
-                browser or download a browser that supports it.
-            </p>
-            <p></p>
 
-            <p>
-                Cette carte interactive nécessite JavaScript. Pour voir ce contenu, s'il vous plaît, activer
-                JavaScript dans votre navigateur ou télécharger un navigateur qui le prend en charge.
-            </p>
+    <div class="myMap"
+            id="sample-map"
+            is="rv-map"
+            rv-config="coord.json"
+            rv-langs='["en-CA", "fr-CA"]'
+            rv-plugins="coordInfo" >
+         <noscript>
+            <p>This interactive map requires JavaScript. To view this content please enable JavaScript in your browser or download a browser that supports it.<p>
+
+            <p>Cette carte interactive nécessite JavaScript. Pour voir ce contenu, s'il vous plaît, activer JavaScript dans votre navigateur ou télécharger un navigateur qui le prend en charge.</p>
         </noscript>
     </div>
-    <script
-        src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally">
-    </script>
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally"></script>
-<script src="/js/rv-main.js"></script>
+
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Object.entries,Object.values,Array.prototype.find,Array.prototype.findIndex,Array.prototype.values,Array.prototype.includes,HTMLCanvasElement.prototype.toBlob,String.prototype.repeat,String.prototype.codePointAt,String.fromCodePoint,NodeList.prototype.@@iterator,Promise,Promise.prototype.finally"></script>
+
+    
+        
+            <script src="http://fgpv-app.azureedge.net/demo/tags/v3.3.1/dist/legacy-api.js"></script>
+        
+    
+        
+            <script src="http://fgpv-app.azureedge.net/demo/tags/v3.3.1/dist/rv-main.js"></script>
+        
+            <script src="http://fgpv-app.azureedge.net/demo/tags/v3.3.1/dist/ramp-plugin-coordinate-info.js"></script>
+        
+    
+
 </body>
 
 </html>
